@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import numpy as np
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 data_dir = str(BASE_DIR / "data" / "countries")
 results = []

@@ -2,9 +2,9 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
-file_path = str(BASE_DIR\data\indices\SPX.csv"
+file_path = str(BASE_DIR / "data" / "indices" / "SPX.csv")
 
 # Read the CSV
 try:

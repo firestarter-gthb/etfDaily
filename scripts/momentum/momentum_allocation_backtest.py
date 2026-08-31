@@ -4,7 +4,7 @@ import numpy as np
 import yfinance as yf
 import matplotlib.pyplot as plt
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 # Configuration
 TOP_N = 5
@@ -101,7 +101,7 @@ plt.ylabel('Equity (Base 100)')
 plt.legend()
 plt.grid(True, which="both", ls="-", alpha=0.2)
 plt.tight_layout()
-plt.savefig(str(BASE_DIR / "reports" / "figures\equity_curve.png")
+plt.savefig(str(BASE_DIR / "reports" / "figures" / "equity_curve.png"))
 
 # Metrics
 def calc_metrics(returns):

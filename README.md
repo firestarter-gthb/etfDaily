@@ -11,11 +11,13 @@ etfDaily/
 ├── data/
 │   ├── countries/              # 36 UCITS Country & Region ETF CSVs (1M - 20+ jaar historie)
 │   ├── indices/                # 17 Global Indices, Commodities & Treasury Bond CSVs
+│   ├── sectors/                # 19 S&P 500 Select Sector & Industry ETF CSVs
 │   └── daily/                  # Dagelijkse 1D data van SPY, SPX, AAPL, GDAXI, TRIN
 ├── scripts/
 │   ├── data_download/          # Scripts om data automatisch via yfinance te downloaden/updaten
 │   │   ├── download_country_etfs.py
-│   │   └── download_indices_data.py
+│   │   ├── download_indices_data.py
+│   │   └── download_sector_etfs.py
 │   ├── momentum/               # Landen & Sector ETF momentum & correlatie analyses
 │   │   ├── country_momentum.py
 │   │   ├── country_correlation.py
@@ -110,10 +112,11 @@ etfDaily/
 
 ## 🚀 Data Updates
 
-Om de datasets voor landen-ETFs en indices bij te werken naar de meest recente koersen:
+Om de datasets voor landen-ETFs, sector-ETFs en indices bij te werken naar de meest recente koersen:
 ```bash
 python scripts/data_download/download_country_etfs.py
 python scripts/data_download/download_indices_data.py
+python scripts/data_download/download_sector_etfs.py
 ```
 
 ---

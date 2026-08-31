@@ -4,7 +4,7 @@ import numpy as np
 import yfinance as yf
 import matplotlib.pyplot as plt
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 tickers = {"Nasdaq 100 (QQQ)": "QQQ", "S&P 500 (SPY)": "SPY", "Dow Jones (DIA)": "DIA"}
 
@@ -34,7 +34,7 @@ plt.ylabel('Equity (Base 100, Log Scale)')
 plt.legend()
 plt.grid(True, which="both", ls="-", alpha=0.2)
 plt.tight_layout()
-plt.savefig(str(BASE_DIR / "reports" / "figures\us_indices_long_term.png")
+plt.savefig(str(BASE_DIR / "reports" / "figures" / "us_indices_long_term.png"))
 
 def calc_metrics(ret):
     cum_ret = (1 + ret).cumprod() - 1

@@ -46,7 +46,8 @@ for c in cycles:
         month_stats.append(f"| {calendar.month_abbr[m]} | {w:.1f}% | {a:.2f}% |")
     results[c] = month_stats
 
-with open(r'C:\Users\ROB5293\antigravity\etfDaily\scripts\cycle_results.txt', 'w') as f:
+output_path = str(BASE_DIR / "reports" / "cycle_results.txt")
+with open(output_path, 'w') as f:
     for c in cycles:
         f.write(f"### {c}\n")
         f.write("| Month | Win % | Avg Ret |\n")

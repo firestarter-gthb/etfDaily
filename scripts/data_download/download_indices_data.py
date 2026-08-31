@@ -2,7 +2,7 @@ from pathlib import Path
 import yfinance as yf
 import os
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 # Target directory
 output_dir = str(BASE_DIR / "data" / "indices")

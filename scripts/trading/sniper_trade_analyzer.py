@@ -6,7 +6,7 @@ import datetime
 import warnings
 import os
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 # Suppress pandas warnings
 warnings.filterwarnings('ignore')
@@ -182,13 +182,13 @@ for shift in shifts:
     markdown_content += generate_markdown(trades_smh, 'SMH') + "\n"
 
 # Write stats
-with open(r'C:\Users\ROB5293\antigravity\etfDaily\scripts\sniper_stats.txt', 'w') as f:
+with open(str(BASE_DIR / "reports" / "sniper_stats.txt"), 'w') as f:
     f.write(stats_content)
 
 # Write to current brain conversation dir as requested
-conv_dir = r'C:\Users\ROB5293\.gemini\antigravity-ide\brain\354f1795-47bd-4ef1-ae5a-584528abc375'
-os.makedirs(conv_dir, exist_ok=True)
-with open(os.path.join(conv_dir, 'trade_log.md'), 'w', encoding='utf-8') as f:
+trade_log_path = str(BASE_DIR / "reports" / "trade_log.md")
+os.makedirs(os.path.dirname(trade_log_path), exist_ok=True)
+with open(trade_log_path, 'w', encoding='utf-8') as f:
     f.write(markdown_content)
 
 print("Simulation complete.")
