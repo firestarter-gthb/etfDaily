@@ -10,12 +10,14 @@ Een uitgebreide repository voor **dagelijkse marktanalyses, multi-asset en lande
 etfDaily/
 ├── data/
 │   ├── countries/              # 36 UCITS Country & Region ETF CSVs (1M - 20+ jaar historie)
-│   ├── indices/                # 17 Global Indices, Commodities & Treasury Bond CSVs
+│   ├── crypto/                 # Dagelijkse crypto CSVs (Bitcoin, Ethereum, Solana)
+│   ├── indices/                # 18 Global Indices, Commodities, Bonds & Bitcoin CSVs
 │   ├── sectors/                # 19 S&P 500 Select Sector & Industry ETF CSVs
 │   └── daily/                  # Dagelijkse 1D data van SPY, SPX, AAPL, GDAXI, TRIN
 ├── scripts/
 │   ├── data_download/          # Scripts om data automatisch via yfinance te downloaden/updaten
 │   │   ├── download_country_etfs.py
+│   │   ├── download_crypto_data.py
 │   │   ├── download_indices_data.py
 │   │   └── download_sector_etfs.py
 │   ├── momentum/               # Landen & Sector ETF momentum & correlatie analyses

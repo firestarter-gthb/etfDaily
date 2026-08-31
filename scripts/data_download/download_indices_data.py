@@ -27,7 +27,8 @@ tickers = {
     "Gold": "GC=F",
     "Crude_Oil": "CL=F",
     "Euro_Stoxx_50": "^STOXX50E",
-    "Nikkei_225": "^N225"
+    "Nikkei_225": "^N225",
+    "Bitcoin": "BTC-USD"
 }
 
 for name, ticker in tickers.items():
