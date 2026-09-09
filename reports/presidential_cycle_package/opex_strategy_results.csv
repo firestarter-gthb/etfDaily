@@ -1,0 +1,9 @@
+﻿Instrument,Ticker,Type,Start,Jaren,Totaal Return,CAGR,Sharpe,Sortino,Max Drawdown,Calmar,% In Markt,Aantal Trades,Win Rate Trades,Gem. Trade Ret.
+S&P 500,SPY,Strategie,2000-01-01,26.6,+1217.9%,+10.2%,0.73,0.73,-42.6%,0.24,57%,186,68%,+1.53%
+S&P 500,SPY,Buy & Hold,2000-01-01,26.6,+740.5%,+8.3%,0.51,0.65,-55.2%,0.15,100%,0,—,—
+Nasdaq 100,QQQ,Strategie,2000-01-01,26.6,+1186.9%,+10.1%,0.57,0.56,-74.6%,0.14,57%,186,63%,+1.68%
+Nasdaq 100,QQQ,Buy & Hold,2000-01-01,26.6,+799.8%,+8.6%,0.44,0.58,-83.0%,0.10,100%,0,—,—
+Semiconductors,SMH,Strategie,2002-01-01,24.6,+2649.2%,+14.4%,0.68,0.74,-61.1%,0.24,57%,173,61%,+2.29%
+Semiconductors,SMH,Buy & Hold,2002-01-01,24.6,+2999.3%,+15.0%,0.60,0.85,-70.5%,0.21,100%,0,—,—
+MSCI World,URTH,Strategie,2012-01-01,14.6,+557.8%,+13.8%,1.12,1.18,-14.2%,0.97,57%,102,75%,+1.94%
+MSCI World,URTH,Buy & Hold,2012-01-01,14.6,+445.9%,+12.3%,0.77,0.95,-34.0%,0.36,100%,0,—,—
