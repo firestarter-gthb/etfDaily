@@ -1,0 +1,537 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ETF Daily//SPY Seasonality & Options Calendar//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SPY Seasonality & Opties (2026-2027)
+X-WR-TIMEZONE:Europe/Amsterdam
+X-WR-CALDESC:24 Twee-Wekelijkse OpEx Perioden met Jaarlijkse Cyclus, Presidentiele Cyclus en Optie Strategieen per periode
+BEGIN:VEVENT
+UID:spy-2026-01-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20260103
+SUMMARY:🟢🟢 SPY [A+ BULL CONFLUENCE] Jan 1H | +1.28% / +1.73%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Januari 1H (Post-OpEx) 2026 (20-Dec t/m 02-Jan-2026)\nSTATUS / SIGNAAL: A+ BULL CONFLUENCE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.28%\n• Mediaan: +0.81%\n• Win Rate: 75.8% (33 cycli)\n• Volatiliteit (StdDev): 2.25%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +1.73%\n• Mediaan: +1.49%\n• Win Rate: 100.0% (9 vergelijkbare jaren)\n• Confluence Oordeel: [A+ CONFLUENCE] Jaarlijks: +1.28% (76% WR\, 33j) | Midterm: +1.73% (100% WR\, 9 vergelijkbare jaren). Twee ongekend sterke cycli bevestigen elkaar. Maximale institutionele instroom in het nieuwe beursjaar.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread (+0.60 Delta Long Call / -0.30 Delta Short Call) of Bull Put Credit Spread (20 Delta).\n🔄 Alternatieve Setup: Long SPY Calls / Call LEAPS toevoegen voor het nieuwe beursjaar.\n📊 IV & Regime: Matig tot dalend (post-holiday implied volatility crush).\n📐 Strike Keuze & Delta: Long Call net ITM/ATM\, Short Call op 3-4% OTM weerstand. Target 30-45 DTE of OpEx.\n🛡️ Exit & Risicobeheer: Winst nemen bij 50-60% max profit. Stop loss bij sluiting onder de 21-daagse EMA.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jan 2H: Consolidatie en winstnemingen in aanloop naar tech earnings.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-01-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260117
+SUMMARY:🟡 SPY [NEUTRAAL / PRE-EARNINGS] Jan 2H | -0.02% / -0.82%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Januari 2H (Pre-OpEx) 2026 (03-Jan t/m 16-Jan-2026)\nSTATUS / SIGNAAL: NEUTRAAL / PRE-EARNINGS\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.02%\n• Mediaan: +0.95%\n• Win Rate: 63.6% (33 cycli)\n• Volatiliteit (StdDev): 3.39%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -0.82%\n• Mediaan: +0.27%\n• Win Rate: 55.6% (9 vergelijkbare jaren)\n• Confluence Oordeel: [BEARISH DRUK] Jaarlijks: -0.02% (64% WR\, 33j) | Midterm: -0.82% (56% WR\, 9 vergelijkbare jaren). Adempauze vóór het Big Tech-kwartaalcijferseizoen. De eerste earnings-resultaten bepalen de richting.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor (16-Delta Puts / 16-Delta Calls) of Call Diagonal Spread.\n🔄 Alternatieve Setup: Cash-Secured Put op favoriete dips.\n📊 IV & Regime: Stijgend in aanloop naar Big Tech earnings.\n📐 Strike Keuze & Delta: Wings 5 tot 10 punten breed. Verkoop premie buiten de verwachte weekly move.\n🛡️ Exit & Risicobeheer: Sluiten vóór Big Tech earnings en vóór OpEx Friday.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Feb 1H: Vroege februari rebound (+0.85%\, 67% WR Jaarlijks).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-02-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260203
+SUMMARY:🟢🟡 SPY [GEMATIGD BULLISH / DIVERGENTIE] Feb 1H | +0.85% / -0.39%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Februari 1H (Post-OpEx) 2026 (17-Jan t/m 02-Feb-2026)\nSTATUS / SIGNAAL: GEMATIGD BULLISH / DIVERGENTIE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.85%\n• Mediaan: +1.35%\n• Win Rate: 66.7% (33 cycli)\n• Volatiliteit (StdDev): 2.47%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -0.39%\n• Mediaan: -0.44%\n• Win Rate: 33.3% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.85% (67% WR\, 33j) | Midterm: -0.39% (33% WR\, 9 vergelijkbare jaren). Jaarlijks solide herstel\, maar Midterm-jaren tonen hier vroege terughoudendheid. Divergentie bewaken.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (15-20 Delta) of OTM Call Spread.\n🔄 Alternatieve Setup: Covered Call op bestaande long aandelen.\n📊 IV & Regime: Post-earnings IV crush benutten.\n📐 Strike Keuze & Delta: Short Put onder recente swing low\; Long Put ter bescherming 5 punten lager.\n🛡️ Exit & Risicobeheer: Winst nemen bij 50% max winst vóór 8 februari om niet verrast te worden door Feb 2H.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Feb 2H: Let op voor de traditionele late-februari consolidatie.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-02-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260221
+SUMMARY:🟡 SPY [NEUTRAAL / CONSOLIDATIE] Feb 2H | +0.21% / +0.52%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Februari 2H (Pre-OpEx) 2026 (03-Feb t/m 20-Feb-2026)\nSTATUS / SIGNAAL: NEUTRAAL / CONSOLIDATIE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.21%\n• Mediaan: +0.69%\n• Win Rate: 60.6% (33 cycli)\n• Volatiliteit (StdDev): 2.54%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +0.52%\n• Mediaan: -0.01%\n• Win Rate: 44.4% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.21% (61% WR\, 33j) | Midterm: +0.52% (44% WR\, 9 vergelijkbare jaren). Besluiteloze markt door late earnings en macrocijfers. Consolidatie binnen een range is de meest voorkomende uitkomst.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor of Short Strangles met ruime strikes.\n🔄 Alternatieve Setup: Bear Call Credit Spread bij zwak momentum.\n📊 IV & Regime: Licht verhoogde chop.\n📐 Strike Keuze & Delta: Verkoop 15-Delta strikes aan weerszijden van de range.\n🛡️ Exit & Risicobeheer: Sluiten bij 50% winst of op OpEx Friday.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Mar 1H: ⚠️ Maart start historisch stroef en volatiel.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-03-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260307
+SUMMARY:🔴🟡 SPY [VOLATILITEIT / STROEF] Mar 1H | -0.47% / +0.56%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Maart 1H (Post-OpEx) 2026 (21-Feb t/m 06-Mar-2026)\nSTATUS / SIGNAAL: VOLATILITEIT / STROEF\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.47%\n• Mediaan: -0.02%\n• Win Rate: 47.1% (34 cycli)\n• Volatiliteit (StdDev): 3.55%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +0.56%\n• Mediaan: -0.04%\n• Win Rate: 44.4% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: -0.47% (47% WR\, 34j) | Midterm: +0.56% (44% WR\, 9 vergelijkbare jaren). De vroege maartstart is historisch stroef en volatiel. Geduld loont beter dan agressie.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Long Volatiliteit / Strangle of Bear Call Credit Spread.\n🔄 Alternatieve Setup: Cash positie aanhouden / wachten op de befaamde Mar 2H bodem.\n📊 IV & Regime: Hoog en schommelend.\n📐 Strike Keuze & Delta: Verkoop pas puts als SPY oversold raakt op de RSI(14) < 35.\n🛡️ Exit & Risicobeheer: Geen agressieve naked long calls aanhouden.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Mar 2H: 🚀 STERK HERSTEL! Quarter-end window dressing (+1.49% Midterm\, 78% WR).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-03-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260321
+SUMMARY:🟢🟢 SPY [STERK HERSTEL (KWARTAALEINDE)] Mar 2H | +0.21% / +1.49%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Maart 2H (Pre-OpEx) 2026 (07-Mar t/m 20-Mar-2026)\nSTATUS / SIGNAAL: STERK HERSTEL (KWARTAALEINDE)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.21%\n• Mediaan: +1.14%\n• Win Rate: 58.8% (34 cycli)\n• Volatiliteit (StdDev): 5.34%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +1.49%\n• Mediaan: +1.92%\n• Win Rate: 77.8% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.21% (59% WR\, 34j) | Midterm: +1.49% (78% WR\, 9 vergelijkbare jaren). Institutionele kwartaalherbalancering (window dressing) drijft een betrouwbare opwaartse beweging richting Q1-einde.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread (+0.55 Delta / -0.25 Delta) of ATM Long Calls.\n🔄 Alternatieve Setup: Bull Put Credit Spread (25-30 Delta agressief verkopen).\n📊 IV & Regime: IV crush aan het einde van het kwartaal.\n📐 Strike Keuze & Delta: Target de bovenkant van de kwartaalrange.\n🛡️ Exit & Risicobeheer: Sluiten op of rond de laatste handelsdag van maart.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Apr 1H: April seasonality instroom en tax refund liquiditeit (+0.87% Jaarlijks).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-04-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260404
+SUMMARY:🟢🟡 SPY [APRIL DRIFT / GEMENGD] Apr 1H | +0.87% / -0.49%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: April 1H (Post-OpEx) 2026 (21-Mar t/m 03-Apr-2026)\nSTATUS / SIGNAAL: APRIL DRIFT / GEMENGD\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.87%\n• Mediaan: +1.27%\n• Win Rate: 58.8% (34 cycli)\n• Volatiliteit (StdDev): 3.39%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -0.49%\n• Mediaan: +1.12%\n• Win Rate: 55.6% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.87% (59% WR\, 34j) | Midterm: -0.49% (56% WR\, 9 vergelijkbare jaren). Start Q1-kwartaalcijfers gecombineerd met tax refund liquiditeit. Resultaten zijn bepalend voor de richting.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (20 Delta) of Long Call Diagonal.\n🔄 Alternatieve Setup: Synthetic Long (Long ATM Call gefinancierd door Short OTM Put).\n📊 IV & Regime: Laag tot gemiddeld\; gunstig voor debit structuren.\n📐 Strike Keuze & Delta: Short Put onder steunniveau van eind maart.\n🛡️ Exit & Risicobeheer: Winst nemen vóór grote tech-rapportages in week 2.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Apr 2H: 🟢 Sterke pre-OpEx rally in april (+1.08% Jaarlijks\, +0.77% Midterm).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-04-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260418
+SUMMARY:🟢 SPY [BULLISH PRE-OPEX RALLY] Apr 2H | +1.08% / +0.77%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: April 2H (Pre-OpEx) 2026 (04-Apr t/m 17-Apr-2026)\nSTATUS / SIGNAAL: BULLISH PRE-OPEX RALLY\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.08%\n• Mediaan: +0.43%\n• Win Rate: 61.8% (34 cycli)\n• Volatiliteit (StdDev): 3.97%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +0.77%\n• Mediaan: +0.22%\n• Win Rate: 55.6% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +1.08% (62% WR\, 34j) | Midterm: +0.77% (56% WR\, 9 vergelijkbare jaren). Betrouwbare pre-OpEx drift door tax refund piek en positieve kwartaalcijfers-impuls. Pre-earnings instroom.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread (+0.60 Delta / -0.30 Delta) of Bull Put Spread.\n🔄 Alternatieve Setup: Calendar Call Spread rond megacap rapportages.\n📊 IV & Regime: Hoog rond earnings\, snelle crush na publicatie.\n📐 Strike Keuze & Delta: Target resistance van 52-week highs.\n🛡️ Exit & Risicobeheer: Sluiten bij 50-60% max profit vóór de start van mei.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 May 1H: Laatste opwaartse stoot vóór de beruchte 'Sell in May'.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-05-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260502
+SUMMARY:🟢🟡 SPY [VROEGE MEI DRIFT] May 1H | +0.97% / -0.69%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Mei 1H (Post-OpEx) 2026 (18-Apr t/m 01-May-2026)\nSTATUS / SIGNAAL: VROEGE MEI DRIFT\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.97%\n• Mediaan: +1.19%\n• Win Rate: 64.7% (34 cycli)\n• Volatiliteit (StdDev): 2.52%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -0.69%\n• Mediaan: +0.28%\n• Win Rate: 55.6% (9 vergelijkbare jaren)\n• Confluence Oordeel: [BEARISH DRUK] Jaarlijks: +0.97% (65% WR\, 34j) | Midterm: -0.69% (56% WR\, 9 vergelijkbare jaren). Vroeg-mei-momentum bestaat\, maar de klok tikt naar de seizoensmatige Sell in May-periode. Kortlopend blijven.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (15-20 Delta) of Short-term Call Debit Spread.\n🔄 Alternatieve Setup: Covered Call verkoop op piekniveaus.\n📊 IV & Regime: Dalend post-earnings.\n📐 Strike Keuze & Delta: Gebruik strakke looptijden (7-14 DTE) om niet vast te zitten in Mei 2H.\n🛡️ Exit & Risicobeheer: Winst nemen rond 10 mei. GEEN nieuwe lange posities openen na 12 mei!\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 May 2H: ⚠️ SELL IN MAY KICK-OFF! Midterm gemiddeld -1.19% (44% WR).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-05-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260516
+SUMMARY:🔴 SPY [SELL IN MAY (MIDTERM SELL-OFF)] May 2H | +0.19% / -1.19%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Mei 2H (Pre-OpEx) 2026 (02-May t/m 15-May-2026)\nSTATUS / SIGNAAL: SELL IN MAY (MIDTERM SELL-OFF)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.19%\n• Mediaan: +0.75%\n• Win Rate: 55.9% (34 cycli)\n• Volatiliteit (StdDev): 2.84%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -1.19%\n• Mediaan: -0.01%\n• Win Rate: 44.4% (9 vergelijkbare jaren)\n• Confluence Oordeel: [BEARISH DRUK] Jaarlijks: +0.19% (56% WR\, 34j) | Midterm: -1.19% (44% WR\, 9 vergelijkbare jaren). De seizoensmatige zomerdip-kick-off. Politieke onzekerheid in Midterm-jaren versterkt de correctie structureel.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bear Call Credit Spread (15-20 Delta short call) of Collar op aandelenbezit.\n🔄 Alternatieve Setup: Long Put Hedges (30-45 DTE).\n📊 IV & Regime: Lage IV maakt put protectie relatief goedkoop!\n📐 Strike Keuze & Delta: Short Calls boven de mei-top.\n🛡️ Exit & Risicobeheer: Bescherm kapitaal\; winst nemen bij elke diepe dip.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jun 1H: 🟢 Vroege juni herstelinflow (+1.04% Jaarlijks).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-06-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260602
+SUMMARY:🟢 SPY [ZOMERINSTROOM] Jun 1H | +1.04% / +0.55%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Juni 1H (Post-OpEx) 2026 (16-May t/m 01-Jun-2026)\nSTATUS / SIGNAAL: ZOMERINSTROOM\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.04%\n• Mediaan: +1.29%\n• Win Rate: 64.7% (34 cycli)\n• Volatiliteit (StdDev): 2.92%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +0.55%\n• Mediaan: +1.47%\n• Win Rate: 66.7% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +1.04% (65% WR\, 34j) | Midterm: +0.55% (67% WR\, 9 vergelijkbare jaren). Tijdelijke herstelgolf na de mei-zwakte biedt een korte maar betrouwbare adempauze.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (20 Delta) of Call Debit Spread.\n🔄 Alternatieve Setup: Iron Condor met bullish bias.\n📊 IV & Regime: Stabiel zomers regime.\n📐 Strike Keuze & Delta: Short Put onder late-mei swing lows.\n🛡️ Exit & Risicobeheer: Winst verzilveren vóór medio juni.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jun 2H: ⚠️ Pre-OpEx zomerzwakte en Quadruple Witching.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-06-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260620
+SUMMARY:🔴 SPY [ZOMERZWAKTE / PRE-OPEX] Jun 2H | -0.01% / -1.06%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Juni 2H (Pre-OpEx) 2026 (02-Jun t/m 19-Jun-2026)\nSTATUS / SIGNAAL: ZOMERZWAKTE / PRE-OPEX\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.01%\n• Mediaan: -0.13%\n• Win Rate: 41.2% (34 cycli)\n• Volatiliteit (StdDev): 3.27%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -1.06%\n• Mediaan: -0.12%\n• Win Rate: 44.4% (9 vergelijkbare jaren)\n• Confluence Oordeel: [BEARISH DRUK] Jaarlijks: -0.01% (41% WR\, 34j) | Midterm: -1.06% (44% WR\, 9 vergelijkbare jaren). Quadruple Witching herbalancering en zomerliquiditeitsdruk creëren substantiële verkoopdruk in Midterm-jaren.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bear Call Credit Spread of Delta Neutral Iron Butterfly.\n🔄 Alternatieve Setup: Protective Puts ter bescherming van Q2 winsten.\n📊 IV & Regime: Stijgende hedging activiteit rond Quad Witching.\n📐 Strike Keuze & Delta: Verkoop calls boven weerstand.\n🛡️ Exit & Risicobeheer: Posities sluiten op OpEx Friday.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jul 1H: 🚀 Vroeg Juli instroom van pensioengelden.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-07-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260704
+SUMMARY:🟢 SPY [JULI LIQUIDITEITSINSTROOM] Jul 1H | +0.52% / -0.21%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Juli 1H (Post-OpEx) 2026 (20-Jun t/m 03-Jul-2026)\nSTATUS / SIGNAAL: JULI LIQUIDITEITSINSTROOM\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.52%\n• Mediaan: +1.07%\n• Win Rate: 61.8% (34 cycli)\n• Volatiliteit (StdDev): 2.73%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -0.21%\n• Mediaan: +0.03%\n• Win Rate: 55.6% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.52% (62% WR\, 34j) | Midterm: -0.21% (56% WR\, 9 vergelijkbare jaren). Nieuwe Q3-pensioenallocaties stuwen vroeg-juli institutioneel hoger.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (15 Delta) of Call Debit Spread.\n🔄 Alternatieve Setup: Covered Strangle.\n📊 IV & Regime: Laag zomers regime.\n📐 Strike Keuze & Delta: Koop 50-Delta Call\, verkoop 25-Delta Call.\n🛡️ Exit & Risicobeheer: Winst nemen vóór midden juli.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jul 2H: Zomertop vorming en start Q2 cijfers.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-07-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260718
+SUMMARY:🟡 SPY [ZOMERTOP / CONSOLIDATIE] Jul 2H | +0.51% / -0.47%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Juli 2H (Pre-OpEx) 2026 (04-Jul t/m 17-Jul-2026)\nSTATUS / SIGNAAL: ZOMERTOP / CONSOLIDATIE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.51%\n• Mediaan: +0.77%\n• Win Rate: 58.8% (34 cycli)\n• Volatiliteit (StdDev): 3.32%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -0.47%\n• Mediaan: +1.02%\n• Win Rate: 55.6% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.51% (59% WR\, 34j) | Midterm: -0.47% (56% WR\, 9 vergelijkbare jaren). Zomertop-vorming. Earnings-divergentie tussen Big Tech-winnaars en zwakkere marktdelen.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Delta Neutral Iron Condor of Call Credit Spread.\n🔄 Alternatieve Setup: Collars ter bescherming van de July 1H winsten.\n📊 IV & Regime: Earnings IV crush actief.\n📐 Strike Keuze & Delta: Ruime strikes (10-15 Delta) vanwege 'summer chop'.\n🛡️ Exit & Risicobeheer: Geen overnight exposure meenemen naar Augustus.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Aug 1H: Midterm toont historisch kracht (+1.29%\, 78% WR).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-08-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260804
+SUMMARY:🟢 SPY [MIDTERM AUGUSTUS VEERKRACHT] Aug 1H | +0.30% / +1.29%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Augustus 1H (Post-OpEx) 2026 (18-Jul t/m 03-Aug-2026)\nSTATUS / SIGNAAL: MIDTERM AUGUSTUS VEERKRACHT\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.30%\n• Mediaan: +0.53%\n• Win Rate: 58.8% (34 cycli)\n• Volatiliteit (StdDev): 3.58%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +1.29%\n• Mediaan: +2.46%\n• Win Rate: 77.8% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.30% (59% WR\, 34j) | Midterm: +1.29% (78% WR\, 9 vergelijkbare jaren). Opvallend patroon: Midterm-jaren tonen hier veerkracht terwijl Pre-Election-jaren juist hard instorten.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (20 Delta) of Bull Call Spread.\n🔄 Alternatieve Setup: Long Volatiliteit / VIX Calls als macro-verzekering.\n📊 IV & Regime: Lage volumes kunnen uitslagen vergroten.\n📐 Strike Keuze & Delta: Short Put onder steunniveau van eind juli.\n🛡️ Exit & Risicobeheer: Winst veiligstellen bij 50% max profit.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Aug 2H: Jackson Hole centrale bankiers conferentie.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-08-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260822
+SUMMARY:🟢🟡 SPY [JACKSON HOLE DRIFT] Aug 2H | +0.12% / +1.34%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Augustus 2H (Pre-OpEx) 2026 (04-Aug t/m 21-Aug-2026)\nSTATUS / SIGNAAL: JACKSON HOLE DRIFT\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.12%\n• Mediaan: +0.57%\n• Win Rate: 67.6% (34 cycli)\n• Volatiliteit (StdDev): 3.34%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +1.34%\n• Mediaan: +1.46%\n• Win Rate: 77.8% (9 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.12% (68% WR\, 34j) | Midterm: +1.34% (78% WR\, 9 vergelijkbare jaren). Fed Jackson Hole-symposium en afnemende vakantieliquiditeit bepalen het koersverloop.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor of Bull Put Spread (15 Delta).\n🔄 Alternatieve Setup: Calendar Spreads.\n📊 IV & Regime: IV daalt na speeches centrale bankiers.\n📐 Strike Keuze & Delta: 16-Delta limits\, focus op theta decay.\n🛡️ Exit & Risicobeheer: Sluiten vóór het begin van gevreesd September!\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Sep 1H: ⚠️ Start van de beruchtste beursmaand van het jaar (-1.42% Midterm).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-09-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260905
+SUMMARY:🔴 SPY [SEPTEMBER KATER (RISICO)] Sep 1H | +0.28% / -1.42%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: September 1H (Post-OpEx) 2026 (22-Aug t/m 04-Sep-2026)\nSTATUS / SIGNAAL: SEPTEMBER KATER (RISICO)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.28%\n• Mediaan: +0.42%\n• Win Rate: 57.6% (33 cycli)\n• Volatiliteit (StdDev): 3.01%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -1.42%\n• Mediaan: +0.68%\n• Win Rate: 50.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BEARISH DRUK] Jaarlijks: +0.28% (58% WR\, 33j) | Midterm: -1.42% (50% WR\, 8 vergelijkbare jaren). Wall Street keert terug van vakantie en verlaagt risico. De september-kater slaat planmatig toe.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bear Put Debit Spread of Cash verhogen.\n🔄 Alternatieve Setup: Long Puts als downside hedge.\n📊 IV & Regime: Stijgende volatiliteit.\n📐 Strike Keuze & Delta: ATM/OTM Put spreads met 21-30 DTE.\n🛡️ Exit & Risicobeheer: Neem snelle deelwinsten bij marktcorrecties.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Sep 2H: Pre-OpEx stabilisatie vóór de beruchte Oktober bodem.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-09-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260919
+SUMMARY:🟢🟡★ SPY [PRE-OPEX STABILISATIE ★ HUIDIG] Sep 2H | +0.53% / +0.33%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: September 2H (Pre-OpEx) 2026 (05-Sep t/m 18-Sep-2026)\nSTATUS / SIGNAAL: PRE-OPEX STABILISATIE ★ HUIDIG\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.53%\n• Mediaan: +1.19%\n• Win Rate: 66.7% (33 cycli)\n• Volatiliteit (StdDev): 3.86%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +0.33%\n• Mediaan: +1.01%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.53% (67% WR\, 33j) | Midterm: +0.33% (62% WR\, 8 vergelijkbare jaren). Tijdelijke stabilisatie vóór de beruchte Oktober 1H. Rust voor de storm — posities sluiten is het devies.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor (Delta-Neutraal) of lichte Bull Put Spread (15 Delta).\n🔄 Alternatieve Setup: Short Strangle met ruime marges om theta te verzamelen.\n📊 IV & Regime: Stabiel tot licht stijgend richting oktober.\n📐 Strike Keuze & Delta: Call spread op recente weerstand\, Put spread ruim onder september support.\n🛡️ Exit & Risicobeheer: ALLES SLUITEN OP OPEX FRIDAY! Neem geen long exposure mee naar Oktober 1H!\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 🚨 OKTOBER 1H: DE GEVAARLIJKSTE PERIODE VAN HET JAAR (-1.45%\, 25% WR)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-10-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20261003
+SUMMARY:🔴🔴🚨 SPY [CAPITULATIE BODEM (MAX DUBBEL RISICO)] Oct 1H | -0.88% / -1.45%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Oktober 1H (Post-OpEx) 2026 (19-Sep t/m 02-Oct-2026)\nSTATUS / SIGNAAL: CAPITULATIE BODEM (MAX DUBBEL RISICO)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.88%\n• Mediaan: -0.32%\n• Win Rate: 42.4% (33 cycli)\n• Volatiliteit (StdDev): 3.52%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -1.45%\n• Mediaan: -1.70%\n• Win Rate: 25.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [DUBBEL RISICO] Jaarlijks: -0.88% (42% WR\, 33j) | Midterm: -1.45% (25% WR\, 8 vergelijkbare jaren). De diepste capitulatiedip van de gehele 4-jarige cyclus. Paniek\, politiek en liquidaties komen samen op hun historisch hoogtepunt.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Agressieve Hedges: Bear Put Debit Spreads\, Long Puts of Long VIX Calls.\n🔄 Alternatieve Setup: 100% Cash voor risk-averse handelaren\; bereid buy-the-dip orders voor.\n📊 IV & Regime: Piek in implied volatility en marktpaniek.\n📐 Strike Keuze & Delta: Koop 50-Delta Puts zodra support breekt. Wacht met calls tot extreme capitulatie (VIX > 25-30).\n🛡️ Exit & Risicobeheer: Hedges agressief verzilveren rond OpEx Friday wanneer paniek maximaal is.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 🚀 OKTOBER 2H: DE GROTE TURNAROUND! Het startschot voor de mega eindejaarsrally (+1.72%\, 62% WR)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-10-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261017
+SUMMARY:🟢🟢🚀 SPY [DE GROTE PIVOT / TURNAROUND] Oct 2H | +0.62% / +1.72%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Oktober 2H (Pre-OpEx) 2026 (03-Oct t/m 16-Oct-2026)\nSTATUS / SIGNAAL: DE GROTE PIVOT / TURNAROUND\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.62%\n• Mediaan: +0.99%\n• Win Rate: 57.6% (33 cycli)\n• Volatiliteit (StdDev): 4.56%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +1.72%\n• Mediaan: +2.61%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +0.62% (58% WR\, 33j) | Midterm: +1.72% (62% WR\, 8 vergelijkbare jaren). Het startschot van de mega-eindejaarsrally. Smart money bouwt posities op na de capitulatie — turnaround is ingezet.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread (+0.60 Delta / -0.30 Delta) of Risk Reversal (Sell OTM Put\, Koop ATM Call).\n🔄 Alternatieve Setup: Agressieve Bull Put Spreads op oversold niveaus.\n📊 IV & Regime: IV crush begint na de capitulatiedip\; ideaal voor debit spreads.\n📐 Strike Keuze & Delta: Koop ATM Calls met 45-60 DTE gericht op de eindejaarsrally.\n🛡️ Exit & Risicobeheer: Laat winnaars lopen\; rol opwaarts door naar November.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Nov 1H: Post-Election Relief Rally (+1.63% Midterm\, 62% WR)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-11-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261103
+SUMMARY:🟢🟢 SPY [POST-ELECTION RELIEF RALLY] Nov 1H | +1.34% / +1.63%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: November 1H (Post-OpEx) 2026 (17-Oct t/m 02-Nov-2026)\nSTATUS / SIGNAAL: POST-ELECTION RELIEF RALLY\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.34%\n• Mediaan: +1.22%\n• Win Rate: 66.7% (33 cycli)\n• Volatiliteit (StdDev): 2.82%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +1.63%\n• Mediaan: +1.03%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +1.34% (67% WR\, 33j) | Midterm: +1.63% (62% WR\, 8 vergelijkbare jaren). Het sluiten van de stembussen verwijdert politieke onzekerheid in één klap. Election Relief Rally explodeert.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread of ATM Long Calls.\n🔄 Alternatieve Setup: Bull Put Credit Spread (20 Delta).\n📊 IV & Regime: Sterke daling van de 'Election Volatility' (IV crush).\n📐 Strike Keuze & Delta: Verkoop out-of-the-money calls 3-5% boven de markt.\n🛡️ Exit & Risicobeheer: Winst vasthouden richting Thanksgiving.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 👑 NOVEMBER 2H: HET KROONJUWEEL! 100% WIN RATE IN MIDTERM JAREN (+2.35%)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-11-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261121
+SUMMARY:🟢🟢🟢👑 SPY [KROONJUWEEL A++ (100% WIN RATE)] Nov 2H | +0.92% / +2.35%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: November 2H (Pre-OpEx) 2026 (03-Nov t/m 20-Nov-2026)\nSTATUS / SIGNAAL: KROONJUWEEL A++ (100% WIN RATE)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.92%\n• Mediaan: +1.85%\n• Win Rate: 69.7% (33 cycli)\n• Volatiliteit (StdDev): 4.87%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +2.35%\n• Mediaan: +2.02%\n• Win Rate: 100.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [A+ CONFLUENCE] Jaarlijks: +0.92% (70% WR\, 33j) | Midterm: +2.35% (100% WR\, 8 vergelijkbare jaren). Het historisch perfecte seizoensjuweel. Thanksgiving-liquiditeit en post-election euforie versterken elkaar maximaal.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Maximale Bullish Exposure: Deep ITM Call LEAPS\, Bull Call Spreads\, Synthetic Longs.\n🔄 Alternatieve Setup: Agressief verkopen van OTM Puts (30 Delta) om royale premie op te strijken.\n📊 IV & Regime: Historisch gunstig\; gestage Thanksgiving opwaartse stroom.\n📐 Strike Keuze & Delta: Koop 65-Delta Long Calls\, verkoop 25-Delta Calls\; of naked long calls.\n🛡️ Exit & Risicobeheer: Winst nemen vóór de eerste week van december.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Dec 1H: Start van de Santa Claus Rally (+1.51% Jaarlijks\, 79% WR).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-12-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261205
+SUMMARY:🟢 SPY [SANTA RALLY KICK-OFF] Dec 1H | +1.51% / +0.60%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: December 1H (Post-OpEx) 2026 (21-Nov t/m 04-Dec-2026)\nSTATUS / SIGNAAL: SANTA RALLY KICK-OFF\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.51%\n• Mediaan: +1.44%\n• Win Rate: 78.8% (33 cycli)\n• Volatiliteit (StdDev): 2.44%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: +0.60%\n• Mediaan: +0.89%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +1.51% (79% WR\, 33j) | Midterm: +0.60% (62% WR\, 8 vergelijkbare jaren). Gestage Santa Claus-drift met historisch de hoogste jaarlijkse win rate van alle 24 perioden.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (15-20 Delta) of Covered Calls.\n🔄 Alternatieve Setup: Iron Condor met bullish skew.\n📊 IV & Regime: Lage volatiliteit\; sterke theta decay.\n📐 Strike Keuze & Delta: Short Put ruim onder de november low.\n🛡️ Exit & Risicobeheer: 50% winst target voor OpEx Friday.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Dec 2H: Eindejaars window dressing en rollover naar Jan 1H.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2026-12-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261219
+SUMMARY:🟡🔴 SPY [WINDOW DRESSING / DIVERGENTIE] Dec 2H | -0.18% / -1.59%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: December 2H (Pre-OpEx) 2026 (05-Dec t/m 18-Dec-2026)\nSTATUS / SIGNAAL: WINDOW DRESSING / DIVERGENTIE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.18%\n• Mediaan: +0.34%\n• Win Rate: 60.6% (33 cycli)\n• Volatiliteit (StdDev): 2.76%\n\n--- 2. PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)) ---\n• Gemiddeld Rendement: -1.59%\n• Mediaan: +0.14%\n• Win Rate: 50.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BEARISH DRUK] Jaarlijks: -0.18% (61% WR\, 33j) | Midterm: -1.59% (50% WR\, 8 vergelijkbare jaren). Jaareinde-winstnemingen en herbalancering sluiten het beursjaar af. Rustige afsluiting na de november-explosie.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor (Theta Melken) of Long Call rollen naar Januari.\n🔄 Alternatieve Setup: Cash opbouwen voor de Jan 1H A+ setup.\n📊 IV & Regime: Zeer lage holiday volumes.\n📐 Strike Keuze & Delta: Ver OTM strikes (10 Delta) om holiday theta te incasseren.\n🛡️ Exit & Risicobeheer: Posities sluiten vóór 31 december\; nieuw handelsplan klaarzetten!\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jan 1H: Het nieuwe jaar start met A+ Bull Confluence (+1.28% tot +1.73%)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-01-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20270102
+SUMMARY:🟢🟢 SPY [A+ BULL CONFLUENCE] Jan 1H | +1.28% / +1.58%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Januari 1H (Post-OpEx) 2027 (19-Dec t/m 01-Jan-2027)\nSTATUS / SIGNAAL: A+ BULL CONFLUENCE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.28%\n• Mediaan: +0.81%\n• Win Rate: 75.8% (33 cycli)\n• Volatiliteit (StdDev): 2.25%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.58%\n• Mediaan: +1.35%\n• Win Rate: 75.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +1.28% (76% WR\, 33j) | Pre-Election: +1.58% (75% WR\, 8 vergelijkbare jaren). Twee ongekend sterke cycli bevestigen elkaar. Maximale institutionele instroom in het nieuwe beursjaar.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread (+0.60 Delta Long Call / -0.30 Delta Short Call) of Bull Put Credit Spread (20 Delta).\n🔄 Alternatieve Setup: Long SPY Calls / Call LEAPS toevoegen voor het nieuwe beursjaar.\n📊 IV & Regime: Matig tot dalend (post-holiday implied volatility crush).\n📐 Strike Keuze & Delta: Long Call net ITM/ATM\, Short Call op 3-4% OTM weerstand. Target 30-45 DTE of OpEx.\n🛡️ Exit & Risicobeheer: Winst nemen bij 50-60% max profit. Stop loss bij sluiting onder de 21-daagse EMA.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jan 2H: Consolidatie en winstnemingen in aanloop naar tech earnings.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-01-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270116
+SUMMARY:🟡 SPY [NEUTRAAL / PRE-EARNINGS] Jan 2H | -0.02% / +1.22%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Januari 2H (Pre-OpEx) 2027 (02-Jan t/m 15-Jan-2027)\nSTATUS / SIGNAAL: NEUTRAAL / PRE-EARNINGS\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.02%\n• Mediaan: +0.95%\n• Win Rate: 63.6% (33 cycli)\n• Volatiliteit (StdDev): 3.39%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.22%\n• Mediaan: +1.09%\n• Win Rate: 75.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: -0.02% (64% WR\, 33j) | Pre-Election: +1.22% (75% WR\, 8 vergelijkbare jaren). Adempauze vóór het Big Tech-kwartaalcijferseizoen. De eerste earnings-resultaten bepalen de richting.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor (16-Delta Puts / 16-Delta Calls) of Call Diagonal Spread.\n🔄 Alternatieve Setup: Cash-Secured Put op favoriete dips.\n📊 IV & Regime: Stijgend in aanloop naar Big Tech earnings.\n📐 Strike Keuze & Delta: Wings 5 tot 10 punten breed. Verkoop premie buiten de verwachte weekly move.\n🛡️ Exit & Risicobeheer: Sluiten vóór Big Tech earnings en vóór OpEx Friday.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Feb 1H: Vroege februari rebound (+0.85%\, 67% WR Jaarlijks).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-02-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270202
+SUMMARY:🟢🟡 SPY [GEMATIGD BULLISH / DIVERGENTIE] Feb 1H | +0.85% / +1.18%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Februari 1H (Post-OpEx) 2027 (16-Jan t/m 01-Feb-2027)\nSTATUS / SIGNAAL: GEMATIGD BULLISH / DIVERGENTIE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.85%\n• Mediaan: +1.35%\n• Win Rate: 66.7% (33 cycli)\n• Volatiliteit (StdDev): 2.47%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.18%\n• Mediaan: +1.50%\n• Win Rate: 87.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +0.85% (67% WR\, 33j) | Pre-Election: +1.18% (88% WR\, 8 vergelijkbare jaren). Jaarlijks solide herstel\, maar Midterm-jaren tonen hier vroege terughoudendheid. Divergentie bewaken.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (15-20 Delta) of OTM Call Spread.\n🔄 Alternatieve Setup: Covered Call op bestaande long aandelen.\n📊 IV & Regime: Post-earnings IV crush benutten.\n📐 Strike Keuze & Delta: Short Put onder recente swing low\; Long Put ter bescherming 5 punten lager.\n🛡️ Exit & Risicobeheer: Winst nemen bij 50% max winst vóór 8 februari om niet verrast te worden door Feb 2H.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Feb 2H: Let op voor de traditionele late-februari consolidatie.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-02-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270220
+SUMMARY:🟡 SPY [NEUTRAAL / CONSOLIDATIE] Feb 2H | +0.21% / +0.87%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Februari 2H (Pre-OpEx) 2027 (02-Feb t/m 19-Feb-2027)\nSTATUS / SIGNAAL: NEUTRAAL / CONSOLIDATIE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.21%\n• Mediaan: +0.69%\n• Win Rate: 60.6% (33 cycli)\n• Volatiliteit (StdDev): 2.54%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +0.87%\n• Mediaan: +0.76%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.21% (61% WR\, 33j) | Pre-Election: +0.87% (62% WR\, 8 vergelijkbare jaren). Besluiteloze markt door late earnings en macrocijfers. Consolidatie binnen een range is de meest voorkomende uitkomst.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor of Short Strangles met ruime strikes.\n🔄 Alternatieve Setup: Bear Call Credit Spread bij zwak momentum.\n📊 IV & Regime: Licht verhoogde chop.\n📐 Strike Keuze & Delta: Verkoop 15-Delta strikes aan weerszijden van de range.\n🛡️ Exit & Risicobeheer: Sluiten bij 50% winst of op OpEx Friday.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Mar 1H: ⚠️ Maart start historisch stroef en volatiel.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-03-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270306
+SUMMARY:🔴🟡 SPY [VOLATILITEIT / STROEF] Mar 1H | -0.47% / -0.83%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Maart 1H (Post-OpEx) 2027 (20-Feb t/m 05-Mar-2027)\nSTATUS / SIGNAAL: VOLATILITEIT / STROEF\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.47%\n• Mediaan: -0.02%\n• Win Rate: 47.1% (34 cycli)\n• Volatiliteit (StdDev): 3.55%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: -0.83%\n• Mediaan: -1.14%\n• Win Rate: 37.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BEARISH DRUK] Jaarlijks: -0.47% (47% WR\, 34j) | Pre-Election: -0.83% (38% WR\, 8 vergelijkbare jaren). De vroege maartstart is historisch stroef en volatiel. Geduld loont beter dan agressie.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Long Volatiliteit / Strangle of Bear Call Credit Spread.\n🔄 Alternatieve Setup: Cash positie aanhouden / wachten op de befaamde Mar 2H bodem.\n📊 IV & Regime: Hoog en schommelend.\n📐 Strike Keuze & Delta: Verkoop pas puts als SPY oversold raakt op de RSI(14) < 35.\n🛡️ Exit & Risicobeheer: Geen agressieve naked long calls aanhouden.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Mar 2H: 🚀 STERK HERSTEL! Quarter-end window dressing (+1.49% Midterm\, 78% WR).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-03-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270320
+SUMMARY:🟢🟢 SPY [STERK HERSTEL (KWARTAALEINDE)] Mar 2H | +0.21% / +1.09%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Maart 2H (Pre-OpEx) 2027 (06-Mar t/m 19-Mar-2027)\nSTATUS / SIGNAAL: STERK HERSTEL (KWARTAALEINDE)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.21%\n• Mediaan: +1.14%\n• Win Rate: 58.8% (34 cycli)\n• Volatiliteit (StdDev): 5.34%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.09%\n• Mediaan: +1.31%\n• Win Rate: 75.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.21% (59% WR\, 34j) | Pre-Election: +1.09% (75% WR\, 8 vergelijkbare jaren). Institutionele kwartaalherbalancering (window dressing) drijft een betrouwbare opwaartse beweging richting Q1-einde.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread (+0.55 Delta / -0.25 Delta) of ATM Long Calls.\n🔄 Alternatieve Setup: Bull Put Credit Spread (25-30 Delta agressief verkopen).\n📊 IV & Regime: IV crush aan het einde van het kwartaal.\n📐 Strike Keuze & Delta: Target de bovenkant van de kwartaalrange.\n🛡️ Exit & Risicobeheer: Sluiten op of rond de laatste handelsdag van maart.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Apr 1H: April seasonality instroom en tax refund liquiditeit (+0.87% Jaarlijks).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-04-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270403
+SUMMARY:🟢🟡 SPY [APRIL DRIFT / GEMENGD] Apr 1H | +0.87% / +1.51%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: April 1H (Post-OpEx) 2027 (20-Mar t/m 02-Apr-2027)\nSTATUS / SIGNAAL: APRIL DRIFT / GEMENGD\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.87%\n• Mediaan: +1.27%\n• Win Rate: 58.8% (34 cycli)\n• Volatiliteit (StdDev): 3.39%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.51%\n• Mediaan: +1.84%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +0.87% (59% WR\, 34j) | Pre-Election: +1.51% (62% WR\, 8 vergelijkbare jaren). Start Q1-kwartaalcijfers gecombineerd met tax refund liquiditeit. Resultaten zijn bepalend voor de richting.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (20 Delta) of Long Call Diagonal.\n🔄 Alternatieve Setup: Synthetic Long (Long ATM Call gefinancierd door Short OTM Put).\n📊 IV & Regime: Laag tot gemiddeld\; gunstig voor debit structuren.\n📐 Strike Keuze & Delta: Short Put onder steunniveau van eind maart.\n🛡️ Exit & Risicobeheer: Winst nemen vóór grote tech-rapportages in week 2.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Apr 2H: 🟢 Sterke pre-OpEx rally in april (+1.08% Jaarlijks\, +0.77% Midterm).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-04-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270417
+SUMMARY:🟢 SPY [BULLISH PRE-OPEX RALLY] Apr 2H | +1.08% / +1.26%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: April 2H (Pre-OpEx) 2027 (03-Apr t/m 16-Apr-2027)\nSTATUS / SIGNAAL: BULLISH PRE-OPEX RALLY\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.08%\n• Mediaan: +0.43%\n• Win Rate: 61.8% (34 cycli)\n• Volatiliteit (StdDev): 3.97%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.26%\n• Mediaan: +1.14%\n• Win Rate: 87.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +1.08% (62% WR\, 34j) | Pre-Election: +1.26% (88% WR\, 8 vergelijkbare jaren). Betrouwbare pre-OpEx drift door tax refund piek en positieve kwartaalcijfers-impuls. Pre-earnings instroom.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread (+0.60 Delta / -0.30 Delta) of Bull Put Spread.\n🔄 Alternatieve Setup: Calendar Call Spread rond megacap rapportages.\n📊 IV & Regime: Hoog rond earnings\, snelle crush na publicatie.\n📐 Strike Keuze & Delta: Target resistance van 52-week highs.\n🛡️ Exit & Risicobeheer: Sluiten bij 50-60% max profit vóór de start van mei.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 May 1H: Laatste opwaartse stoot vóór de beruchte 'Sell in May'.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-05-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270504
+SUMMARY:🟢🟡 SPY [VROEGE MEI DRIFT] May 1H | +0.97% / +1.85%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Mei 1H (Post-OpEx) 2027 (17-Apr t/m 03-May-2027)\nSTATUS / SIGNAAL: VROEGE MEI DRIFT\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.97%\n• Mediaan: +1.19%\n• Win Rate: 64.7% (34 cycli)\n• Volatiliteit (StdDev): 2.52%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.85%\n• Mediaan: +1.62%\n• Win Rate: 100.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [A+ CONFLUENCE] Jaarlijks: +0.97% (65% WR\, 34j) | Pre-Election: +1.85% (100% WR\, 8 vergelijkbare jaren). Vroeg-mei-momentum bestaat\, maar de klok tikt naar de seizoensmatige Sell in May-periode. Kortlopend blijven.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (15-20 Delta) of Short-term Call Debit Spread.\n🔄 Alternatieve Setup: Covered Call verkoop op piekniveaus.\n📊 IV & Regime: Dalend post-earnings.\n📐 Strike Keuze & Delta: Gebruik strakke looptijden (7-14 DTE) om niet vast te zitten in Mei 2H.\n🛡️ Exit & Risicobeheer: Winst nemen rond 10 mei. GEEN nieuwe lange posities openen na 12 mei!\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 May 2H: ⚠️ SELL IN MAY KICK-OFF! Midterm gemiddeld -1.19% (44% WR).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-05-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270522
+SUMMARY:🔴 SPY [SELL IN MAY (MIDTERM SELL-OFF)] May 2H | +0.19% / +0.13%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Mei 2H (Pre-OpEx) 2027 (04-May t/m 21-May-2027)\nSTATUS / SIGNAAL: SELL IN MAY (MIDTERM SELL-OFF)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.19%\n• Mediaan: +0.75%\n• Win Rate: 55.9% (34 cycli)\n• Volatiliteit (StdDev): 2.84%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +0.13%\n• Mediaan: +0.32%\n• Win Rate: 50.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.19% (56% WR\, 34j) | Pre-Election: +0.13% (50% WR\, 8 vergelijkbare jaren). De seizoensmatige zomerdip-kick-off. Politieke onzekerheid in Midterm-jaren versterkt de correctie structureel.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bear Call Credit Spread (15-20 Delta short call) of Collar op aandelenbezit.\n🔄 Alternatieve Setup: Long Put Hedges (30-45 DTE).\n📊 IV & Regime: Lage IV maakt put protectie relatief goedkoop!\n📐 Strike Keuze & Delta: Short Calls boven de mei-top.\n🛡️ Exit & Risicobeheer: Bescherm kapitaal\; winst nemen bij elke diepe dip.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jun 1H: 🟢 Vroege juni herstelinflow (+1.04% Jaarlijks).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-06-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270605
+SUMMARY:🟢 SPY [ZOMERINSTROOM] Jun 1H | +1.04% / +0.84%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Juni 1H (Post-OpEx) 2027 (22-May t/m 04-Jun-2027)\nSTATUS / SIGNAAL: ZOMERINSTROOM\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.04%\n• Mediaan: +1.29%\n• Win Rate: 64.7% (34 cycli)\n• Volatiliteit (StdDev): 2.92%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +0.84%\n• Mediaan: +0.43%\n• Win Rate: 50.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +1.04% (65% WR\, 34j) | Pre-Election: +0.84% (50% WR\, 8 vergelijkbare jaren). Tijdelijke herstelgolf na de mei-zwakte biedt een korte maar betrouwbare adempauze.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (20 Delta) of Call Debit Spread.\n🔄 Alternatieve Setup: Iron Condor met bullish bias.\n📊 IV & Regime: Stabiel zomers regime.\n📐 Strike Keuze & Delta: Short Put onder late-mei swing lows.\n🛡️ Exit & Risicobeheer: Winst verzilveren vóór medio juni.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jun 2H: ⚠️ Pre-OpEx zomerzwakte en Quadruple Witching.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-06-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270619
+SUMMARY:🔴 SPY [ZOMERZWAKTE / PRE-OPEX] Jun 2H | -0.01% / +1.03%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Juni 2H (Pre-OpEx) 2027 (05-Jun t/m 18-Jun-2027)\nSTATUS / SIGNAAL: ZOMERZWAKTE / PRE-OPEX\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.01%\n• Mediaan: -0.13%\n• Win Rate: 41.2% (34 cycli)\n• Volatiliteit (StdDev): 3.27%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.03%\n• Mediaan: +0.88%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: -0.01% (41% WR\, 34j) | Pre-Election: +1.03% (62% WR\, 8 vergelijkbare jaren). Quadruple Witching herbalancering en zomerliquiditeitsdruk creëren substantiële verkoopdruk in Midterm-jaren.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bear Call Credit Spread of Delta Neutral Iron Butterfly.\n🔄 Alternatieve Setup: Protective Puts ter bescherming van Q2 winsten.\n📊 IV & Regime: Stijgende hedging activiteit rond Quad Witching.\n📐 Strike Keuze & Delta: Verkoop calls boven weerstand.\n🛡️ Exit & Risicobeheer: Posities sluiten op OpEx Friday.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jul 1H: 🚀 Vroeg Juli instroom van pensioengelden.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-07-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270703
+SUMMARY:🟢 SPY [JULI LIQUIDITEITSINSTROOM] Jul 1H | +0.52% / +0.96%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Juli 1H (Post-OpEx) 2027 (19-Jun t/m 02-Jul-2027)\nSTATUS / SIGNAAL: JULI LIQUIDITEITSINSTROOM\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.52%\n• Mediaan: +1.07%\n• Win Rate: 61.8% (34 cycli)\n• Volatiliteit (StdDev): 2.73%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +0.96%\n• Mediaan: +1.18%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +0.52% (62% WR\, 34j) | Pre-Election: +0.96% (62% WR\, 8 vergelijkbare jaren). Nieuwe Q3-pensioenallocaties stuwen vroeg-juli institutioneel hoger.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (15 Delta) of Call Debit Spread.\n🔄 Alternatieve Setup: Covered Strangle.\n📊 IV & Regime: Laag zomers regime.\n📐 Strike Keuze & Delta: Koop 50-Delta Call\, verkoop 25-Delta Call.\n🛡️ Exit & Risicobeheer: Winst nemen vóór midden juli.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jul 2H: Zomertop vorming en start Q2 cijfers.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-07-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270717
+SUMMARY:🟡 SPY [ZOMERTOP / CONSOLIDATIE] Jul 2H | +0.51% / +1.16%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Juli 2H (Pre-OpEx) 2027 (03-Jul t/m 16-Jul-2027)\nSTATUS / SIGNAAL: ZOMERTOP / CONSOLIDATIE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.51%\n• Mediaan: +0.77%\n• Win Rate: 58.8% (34 cycli)\n• Volatiliteit (StdDev): 3.32%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.16%\n• Mediaan: +0.93%\n• Win Rate: 75.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +0.51% (59% WR\, 34j) | Pre-Election: +1.16% (75% WR\, 8 vergelijkbare jaren). Zomertop-vorming. Earnings-divergentie tussen Big Tech-winnaars en zwakkere marktdelen.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Delta Neutral Iron Condor of Call Credit Spread.\n🔄 Alternatieve Setup: Collars ter bescherming van de July 1H winsten.\n📊 IV & Regime: Earnings IV crush actief.\n📐 Strike Keuze & Delta: Ruime strikes (10-15 Delta) vanwege 'summer chop'.\n🛡️ Exit & Risicobeheer: Geen overnight exposure meenemen naar Augustus.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Aug 1H: Midterm toont historisch kracht (+1.29%\, 78% WR).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-08-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270803
+SUMMARY:🟢 SPY [MIDTERM AUGUSTUS VEERKRACHT] Aug 1H | +0.30% / -2.72%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Augustus 1H (Post-OpEx) 2027 (17-Jul t/m 02-Aug-2027)\nSTATUS / SIGNAAL: MIDTERM AUGUSTUS VEERKRACHT\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.30%\n• Mediaan: +0.53%\n• Win Rate: 58.8% (34 cycli)\n• Volatiliteit (StdDev): 3.58%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: -2.72%\n• Mediaan: -1.50%\n• Win Rate: 12.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [DUBBEL RISICO] Jaarlijks: +0.30% (59% WR\, 34j) | Pre-Election: -2.72% (12% WR\, 8 vergelijkbare jaren). Opvallend patroon: Midterm-jaren tonen hier veerkracht terwijl Pre-Election-jaren juist hard instorten.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (20 Delta) of Bull Call Spread.\n🔄 Alternatieve Setup: Long Volatiliteit / VIX Calls als macro-verzekering.\n📊 IV & Regime: Lage volumes kunnen uitslagen vergroten.\n📐 Strike Keuze & Delta: Short Put onder steunniveau van eind juli.\n🛡️ Exit & Risicobeheer: Winst veiligstellen bij 50% max profit.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Aug 2H: Jackson Hole centrale bankiers conferentie.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-08-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270821
+SUMMARY:🟢🟡 SPY [JACKSON HOLE DRIFT] Aug 2H | +0.12% / -2.02%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Augustus 2H (Pre-OpEx) 2027 (03-Aug t/m 20-Aug-2027)\nSTATUS / SIGNAAL: JACKSON HOLE DRIFT\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.12%\n• Mediaan: +0.57%\n• Win Rate: 67.6% (34 cycli)\n• Volatiliteit (StdDev): 3.34%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: -2.02%\n• Mediaan: -0.48%\n• Win Rate: 50.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BEARISH DRUK] Jaarlijks: +0.12% (68% WR\, 34j) | Pre-Election: -2.02% (50% WR\, 8 vergelijkbare jaren). Fed Jackson Hole-symposium en afnemende vakantieliquiditeit bepalen het koersverloop.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor of Bull Put Spread (15 Delta).\n🔄 Alternatieve Setup: Calendar Spreads.\n📊 IV & Regime: IV daalt na speeches centrale bankiers.\n📐 Strike Keuze & Delta: 16-Delta limits\, focus op theta decay.\n🛡️ Exit & Risicobeheer: Sluiten vóór het begin van gevreesd September!\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Sep 1H: ⚠️ Start van de beruchtste beursmaand van het jaar (-1.42% Midterm).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-09-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270904
+SUMMARY:🔴 SPY [SEPTEMBER KATER (RISICO)] Sep 1H | +0.28% / +2.02%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: September 1H (Post-OpEx) 2027 (21-Aug t/m 03-Sep-2027)\nSTATUS / SIGNAAL: SEPTEMBER KATER (RISICO)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.28%\n• Mediaan: +0.42%\n• Win Rate: 57.6% (33 cycli)\n• Volatiliteit (StdDev): 3.01%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +2.02%\n• Mediaan: +1.96%\n• Win Rate: 75.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.28% (58% WR\, 33j) | Pre-Election: +2.02% (75% WR\, 8 vergelijkbare jaren). Wall Street keert terug van vakantie en verlaagt risico. De september-kater slaat planmatig toe.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bear Put Debit Spread of Cash verhogen.\n🔄 Alternatieve Setup: Long Puts als downside hedge.\n📊 IV & Regime: Stijgende volatiliteit.\n📐 Strike Keuze & Delta: ATM/OTM Put spreads met 21-30 DTE.\n🛡️ Exit & Risicobeheer: Neem snelle deelwinsten bij marktcorrecties.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Sep 2H: Pre-OpEx stabilisatie vóór de beruchte Oktober bodem.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-09-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270918
+SUMMARY:🟢🟡★ SPY [PRE-OPEX STABILISATIE ★ HUIDIG] Sep 2H | +0.53% / +1.48%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: September 2H (Pre-OpEx) 2027 (04-Sep t/m 17-Sep-2027)\nSTATUS / SIGNAAL: PRE-OPEX STABILISATIE ★ HUIDIG\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.53%\n• Mediaan: +1.19%\n• Win Rate: 66.7% (33 cycli)\n• Volatiliteit (StdDev): 3.86%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.48%\n• Mediaan: +1.26%\n• Win Rate: 87.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +0.53% (67% WR\, 33j) | Pre-Election: +1.48% (88% WR\, 8 vergelijkbare jaren). Tijdelijke stabilisatie vóór de beruchte Oktober 1H. Rust voor de storm — posities sluiten is het devies.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor (Delta-Neutraal) of lichte Bull Put Spread (15 Delta).\n🔄 Alternatieve Setup: Short Strangle met ruime marges om theta te verzamelen.\n📊 IV & Regime: Stabiel tot licht stijgend richting oktober.\n📐 Strike Keuze & Delta: Call spread op recente weerstand\, Put spread ruim onder september support.\n🛡️ Exit & Risicobeheer: ALLES SLUITEN OP OPEX FRIDAY! Neem geen long exposure mee naar Oktober 1H!\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 🚨 OKTOBER 1H: DE GEVAARLIJKSTE PERIODE VAN HET JAAR (-1.45%\, 25% WR)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-10-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20271002
+SUMMARY:🔴🔴🚨 SPY [CAPITULATIE BODEM (MAX DUBBEL RISICO)] Oct 1H | -0.88% / -2.00%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Oktober 1H (Post-OpEx) 2027 (18-Sep t/m 01-Oct-2027)\nSTATUS / SIGNAAL: CAPITULATIE BODEM (MAX DUBBEL RISICO)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.88%\n• Mediaan: -0.32%\n• Win Rate: 42.4% (33 cycli)\n• Volatiliteit (StdDev): 3.52%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: -2.00%\n• Mediaan: -0.82%\n• Win Rate: 12.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [DUBBEL RISICO] Jaarlijks: -0.88% (42% WR\, 33j) | Pre-Election: -2.00% (12% WR\, 8 vergelijkbare jaren). De diepste capitulatiedip van de gehele 4-jarige cyclus. Paniek\, politiek en liquidaties komen samen op hun historisch hoogtepunt.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Agressieve Hedges: Bear Put Debit Spreads\, Long Puts of Long VIX Calls.\n🔄 Alternatieve Setup: 100% Cash voor risk-averse handelaren\; bereid buy-the-dip orders voor.\n📊 IV & Regime: Piek in implied volatility en marktpaniek.\n📐 Strike Keuze & Delta: Koop 50-Delta Puts zodra support breekt. Wacht met calls tot extreme capitulatie (VIX > 25-30).\n🛡️ Exit & Risicobeheer: Hedges agressief verzilveren rond OpEx Friday wanneer paniek maximaal is.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 🚀 OKTOBER 2H: DE GROTE TURNAROUND! Het startschot voor de mega eindejaarsrally (+1.72%\, 62% WR)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-10-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271016
+SUMMARY:🟢🟢🚀 SPY [DE GROTE PIVOT / TURNAROUND] Oct 2H | +0.62% / +1.35%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: Oktober 2H (Pre-OpEx) 2027 (02-Oct t/m 15-Oct-2027)\nSTATUS / SIGNAAL: DE GROTE PIVOT / TURNAROUND\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.62%\n• Mediaan: +0.99%\n• Win Rate: 57.6% (33 cycli)\n• Volatiliteit (StdDev): 4.56%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.35%\n• Mediaan: +0.92%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +0.62% (58% WR\, 33j) | Pre-Election: +1.35% (62% WR\, 8 vergelijkbare jaren). Het startschot van de mega-eindejaarsrally. Smart money bouwt posities op na de capitulatie — turnaround is ingezet.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread (+0.60 Delta / -0.30 Delta) of Risk Reversal (Sell OTM Put\, Koop ATM Call).\n🔄 Alternatieve Setup: Agressieve Bull Put Spreads op oversold niveaus.\n📊 IV & Regime: IV crush begint na de capitulatiedip\; ideaal voor debit spreads.\n📐 Strike Keuze & Delta: Koop ATM Calls met 45-60 DTE gericht op de eindejaarsrally.\n🛡️ Exit & Risicobeheer: Laat winnaars lopen\; rol opwaarts door naar November.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Nov 1H: Post-Election Relief Rally (+1.63% Midterm\, 62% WR)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-11-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271102
+SUMMARY:🟢🟢 SPY [POST-ELECTION RELIEF RALLY] Nov 1H | +1.34% / +2.74%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: November 1H (Post-OpEx) 2027 (16-Oct t/m 01-Nov-2027)\nSTATUS / SIGNAAL: POST-ELECTION RELIEF RALLY\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.34%\n• Mediaan: +1.22%\n• Win Rate: 66.7% (33 cycli)\n• Volatiliteit (StdDev): 2.82%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +2.74%\n• Mediaan: +2.09%\n• Win Rate: 100.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [A+ CONFLUENCE] Jaarlijks: +1.34% (67% WR\, 33j) | Pre-Election: +2.74% (100% WR\, 8 vergelijkbare jaren). Het sluiten van de stembussen verwijdert politieke onzekerheid in één klap. Election Relief Rally explodeert.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Call Debit Spread of ATM Long Calls.\n🔄 Alternatieve Setup: Bull Put Credit Spread (20 Delta).\n📊 IV & Regime: Sterke daling van de 'Election Volatility' (IV crush).\n📐 Strike Keuze & Delta: Verkoop out-of-the-money calls 3-5% boven de markt.\n🛡️ Exit & Risicobeheer: Winst vasthouden richting Thanksgiving.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 👑 NOVEMBER 2H: HET KROONJUWEEL! 100% WIN RATE IN MIDTERM JAREN (+2.35%)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-11-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271120
+SUMMARY:🟢🟢🟢👑 SPY [KROONJUWEEL A++ (100% WIN RATE)] Nov 2H | +0.92% / +0.55%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: November 2H (Pre-OpEx) 2027 (02-Nov t/m 19-Nov-2027)\nSTATUS / SIGNAAL: KROONJUWEEL A++ (100% WIN RATE)\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +0.92%\n• Mediaan: +1.85%\n• Win Rate: 69.7% (33 cycli)\n• Volatiliteit (StdDev): 4.87%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +0.55%\n• Mediaan: +0.40%\n• Win Rate: 50.0% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: +0.92% (70% WR\, 33j) | Pre-Election: +0.55% (50% WR\, 8 vergelijkbare jaren). Het historisch perfecte seizoensjuweel. Thanksgiving-liquiditeit en post-election euforie versterken elkaar maximaal.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Maximale Bullish Exposure: Deep ITM Call LEAPS\, Bull Call Spreads\, Synthetic Longs.\n🔄 Alternatieve Setup: Agressief verkopen van OTM Puts (30 Delta) om royale premie op te strijken.\n📊 IV & Regime: Historisch gunstig\; gestage Thanksgiving opwaartse stroom.\n📐 Strike Keuze & Delta: Koop 65-Delta Long Calls\, verkoop 25-Delta Calls\; of naked long calls.\n🛡️ Exit & Risicobeheer: Winst nemen vóór de eerste week van december.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Dec 1H: Start van de Santa Claus Rally (+1.51% Jaarlijks\, 79% WR).\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-12-1H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271204
+SUMMARY:🟢 SPY [SANTA RALLY KICK-OFF] Dec 1H | +1.51% / +1.39%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: December 1H (Post-OpEx) 2027 (20-Nov t/m 03-Dec-2027)\nSTATUS / SIGNAAL: SANTA RALLY KICK-OFF\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: +1.51%\n• Mediaan: +1.44%\n• Win Rate: 78.8% (33 cycli)\n• Volatiliteit (StdDev): 2.44%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +1.39%\n• Mediaan: +1.58%\n• Win Rate: 87.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [BULLISH CONFLUENCE] Jaarlijks: +1.51% (79% WR\, 33j) | Pre-Election: +1.39% (88% WR\, 8 vergelijkbare jaren). Gestage Santa Claus-drift met historisch de hoogste jaarlijkse win rate van alle 24 perioden.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Bull Put Credit Spread (15-20 Delta) of Covered Calls.\n🔄 Alternatieve Setup: Iron Condor met bullish skew.\n📊 IV & Regime: Lage volatiliteit\; sterke theta decay.\n📐 Strike Keuze & Delta: Short Put ruim onder de november low.\n🛡️ Exit & Risicobeheer: 50% winst target voor OpEx Friday.\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Dec 2H: Eindejaars window dressing en rollover naar Jan 1H.\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+BEGIN:VEVENT
+UID:spy-2027-12-2H@etfdaily.seasonality
+DTSTAMP:20260909T071524Z
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271218
+SUMMARY:🟡🔴 SPY [WINDOW DRESSING / DIVERGENTIE] Dec 2H | -0.18% / +0.50%
+DESCRIPTION:=== SPY SEIZOENSMATIGHEID & OPTIE STRATEGIE ===\nPERIODE: December 2H (Pre-OpEx) 2027 (04-Dec t/m 17-Dec-2027)\nSTATUS / SIGNAAL: WINDOW DRESSING / DIVERGENTIE\n\n--- 1. JAARLIJKSE CYCLUS (1993-2026 / 34 JAAR) ---\n• Gemiddeld Rendement: -0.18%\n• Mediaan: +0.34%\n• Win Rate: 60.6% (33 cycli)\n• Volatiliteit (StdDev): 2.76%\n\n--- 2. PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)) ---\n• Gemiddeld Rendement: +0.50%\n• Mediaan: +1.03%\n• Win Rate: 62.5% (8 vergelijkbare jaren)\n• Confluence Oordeel: [NEUTRAAL] Jaarlijks: -0.18% (61% WR\, 33j) | Pre-Election: +0.50% (62% WR\, 8 vergelijkbare jaren). Jaareinde-winstnemingen en herbalancering sluiten het beursjaar af. Rustige afsluiting na de november-explosie.\n\n--- 3. AANBEVOLEN OPTIE STRATEGIE & PLAYBOOK ---\n🎯 Primaire Strategie: Iron Condor (Theta Melken) of Long Call rollen naar Januari.\n🔄 Alternatieve Setup: Cash opbouwen voor de Jan 1H A+ setup.\n📊 IV & Regime: Zeer lage holiday volumes.\n📐 Strike Keuze & Delta: Ver OTM strikes (10 Delta) om holiday theta te incasseren.\n🛡️ Exit & Risicobeheer: Posities sluiten vóór 31 december\; nieuw handelsplan klaarzetten!\n\n--- 4. VOORUITBLIK VOLGENDE PERIODE ---\n👉 Jan 1H: Het nieuwe jaar start met A+ Bull Confluence (+1.28% tot +1.73%)!\n\nBron: ETF Daily Seasonality Engine & S&P 500 Historical OpEx Database
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:Trading,Seasonality,Options
+END:VEVENT
+END:VCALENDAR

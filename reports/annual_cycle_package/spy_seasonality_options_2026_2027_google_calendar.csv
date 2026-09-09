@@ -1,0 +1,961 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private
+"🟢🟢 SPY [A+ BULL CONFLUENCE] Jan 1H | Ann: +1.28% | Pres: +1.73%",12/20/2025,,01/02/2026,,True,"Periode: Januari 1H (Post-OpEx) 2026
+Signaal: A+ BULL CONFLUENCE
+
+JAARLIJKSE CYCLUS: Avg +1.28% | WR 75.8%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +1.73% | WR 100.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread (+0.60 Delta Long Call / -0.30 Delta Short Call) of Bull Put Credit Spread (20 Delta).
+
+ALTERNATIEF:
+Long SPY Calls / Call LEAPS toevoegen voor het nieuwe beursjaar.
+
+STRIKE REGELS:
+Long Call net ITM/ATM, Short Call op 3-4% OTM weerstand. Target 30-45 DTE of OpEx.
+
+EXIT CRITERIA:
+Winst nemen bij 50-60% max profit. Stop loss bij sluiting onder de 21-daagse EMA.
+
+VOLGENDE PERIODE:
+Jan 2H: Consolidatie en winstnemingen in aanloop naar tech earnings.",Options Desk,False
+"🟡 SPY [NEUTRAAL / PRE-EARNINGS] Jan 2H | Ann: -0.02% | Pres: -0.82%",01/03/2026,,01/16/2026,,True,"Periode: Januari 2H (Pre-OpEx) 2026
+Signaal: NEUTRAAL / PRE-EARNINGS
+
+JAARLIJKSE CYCLUS: Avg -0.02% | WR 63.6%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -0.82% | WR 55.6%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor (16-Delta Puts / 16-Delta Calls) of Call Diagonal Spread.
+
+ALTERNATIEF:
+Cash-Secured Put op favoriete dips.
+
+STRIKE REGELS:
+Wings 5 tot 10 punten breed. Verkoop premie buiten de verwachte weekly move.
+
+EXIT CRITERIA:
+Sluiten vóór Big Tech earnings en vóór OpEx Friday.
+
+VOLGENDE PERIODE:
+Feb 1H: Vroege februari rebound (+0.85%, 67% WR Jaarlijks).",Options Desk,False
+"🟢🟡 SPY [GEMATIGD BULLISH / DIVERGENTIE] Feb 1H | Ann: +0.85% | Pres: -0.39%",01/17/2026,,02/02/2026,,True,"Periode: Februari 1H (Post-OpEx) 2026
+Signaal: GEMATIGD BULLISH / DIVERGENTIE
+
+JAARLIJKSE CYCLUS: Avg +0.85% | WR 66.7%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -0.39% | WR 33.3%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (15-20 Delta) of OTM Call Spread.
+
+ALTERNATIEF:
+Covered Call op bestaande long aandelen.
+
+STRIKE REGELS:
+Short Put onder recente swing low; Long Put ter bescherming 5 punten lager.
+
+EXIT CRITERIA:
+Winst nemen bij 50% max winst vóór 8 februari om niet verrast te worden door Feb 2H.
+
+VOLGENDE PERIODE:
+Feb 2H: Let op voor de traditionele late-februari consolidatie.",Options Desk,False
+"🟡 SPY [NEUTRAAL / CONSOLIDATIE] Feb 2H | Ann: +0.21% | Pres: +0.52%",02/03/2026,,02/20/2026,,True,"Periode: Februari 2H (Pre-OpEx) 2026
+Signaal: NEUTRAAL / CONSOLIDATIE
+
+JAARLIJKSE CYCLUS: Avg +0.21% | WR 60.6%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +0.52% | WR 44.4%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor of Short Strangles met ruime strikes.
+
+ALTERNATIEF:
+Bear Call Credit Spread bij zwak momentum.
+
+STRIKE REGELS:
+Verkoop 15-Delta strikes aan weerszijden van de range.
+
+EXIT CRITERIA:
+Sluiten bij 50% winst of op OpEx Friday.
+
+VOLGENDE PERIODE:
+Mar 1H: ⚠️ Maart start historisch stroef en volatiel.",Options Desk,False
+"🔴🟡 SPY [VOLATILITEIT / STROEF] Mar 1H | Ann: -0.47% | Pres: +0.56%",02/21/2026,,03/06/2026,,True,"Periode: Maart 1H (Post-OpEx) 2026
+Signaal: VOLATILITEIT / STROEF
+
+JAARLIJKSE CYCLUS: Avg -0.47% | WR 47.1%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +0.56% | WR 44.4%
+
+PRIMAIRE OPTIE STRATEGIE:
+Long Volatiliteit / Strangle of Bear Call Credit Spread.
+
+ALTERNATIEF:
+Cash positie aanhouden / wachten op de befaamde Mar 2H bodem.
+
+STRIKE REGELS:
+Verkoop pas puts als SPY oversold raakt op de RSI(14) < 35.
+
+EXIT CRITERIA:
+Geen agressieve naked long calls aanhouden.
+
+VOLGENDE PERIODE:
+Mar 2H: 🚀 STERK HERSTEL! Quarter-end window dressing (+1.49% Midterm, 78% WR).",Options Desk,False
+"🟢🟢 SPY [STERK HERSTEL (KWARTAALEINDE)] Mar 2H | Ann: +0.21% | Pres: +1.49%",03/07/2026,,03/20/2026,,True,"Periode: Maart 2H (Pre-OpEx) 2026
+Signaal: STERK HERSTEL (KWARTAALEINDE)
+
+JAARLIJKSE CYCLUS: Avg +0.21% | WR 58.8%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +1.49% | WR 77.8%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread (+0.55 Delta / -0.25 Delta) of ATM Long Calls.
+
+ALTERNATIEF:
+Bull Put Credit Spread (25-30 Delta agressief verkopen).
+
+STRIKE REGELS:
+Target de bovenkant van de kwartaalrange.
+
+EXIT CRITERIA:
+Sluiten op of rond de laatste handelsdag van maart.
+
+VOLGENDE PERIODE:
+Apr 1H: April seasonality instroom en tax refund liquiditeit (+0.87% Jaarlijks).",Options Desk,False
+"🟢🟡 SPY [APRIL DRIFT / GEMENGD] Apr 1H | Ann: +0.87% | Pres: -0.49%",03/21/2026,,04/03/2026,,True,"Periode: April 1H (Post-OpEx) 2026
+Signaal: APRIL DRIFT / GEMENGD
+
+JAARLIJKSE CYCLUS: Avg +0.87% | WR 58.8%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -0.49% | WR 55.6%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (20 Delta) of Long Call Diagonal.
+
+ALTERNATIEF:
+Synthetic Long (Long ATM Call gefinancierd door Short OTM Put).
+
+STRIKE REGELS:
+Short Put onder steunniveau van eind maart.
+
+EXIT CRITERIA:
+Winst nemen vóór grote tech-rapportages in week 2.
+
+VOLGENDE PERIODE:
+Apr 2H: 🟢 Sterke pre-OpEx rally in april (+1.08% Jaarlijks, +0.77% Midterm).",Options Desk,False
+"🟢 SPY [BULLISH PRE-OPEX RALLY] Apr 2H | Ann: +1.08% | Pres: +0.77%",04/04/2026,,04/17/2026,,True,"Periode: April 2H (Pre-OpEx) 2026
+Signaal: BULLISH PRE-OPEX RALLY
+
+JAARLIJKSE CYCLUS: Avg +1.08% | WR 61.8%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +0.77% | WR 55.6%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread (+0.60 Delta / -0.30 Delta) of Bull Put Spread.
+
+ALTERNATIEF:
+Calendar Call Spread rond megacap rapportages.
+
+STRIKE REGELS:
+Target resistance van 52-week highs.
+
+EXIT CRITERIA:
+Sluiten bij 50-60% max profit vóór de start van mei.
+
+VOLGENDE PERIODE:
+May 1H: Laatste opwaartse stoot vóór de beruchte 'Sell in May'.",Options Desk,False
+"🟢🟡 SPY [VROEGE MEI DRIFT] May 1H | Ann: +0.97% | Pres: -0.69%",04/18/2026,,05/01/2026,,True,"Periode: Mei 1H (Post-OpEx) 2026
+Signaal: VROEGE MEI DRIFT
+
+JAARLIJKSE CYCLUS: Avg +0.97% | WR 64.7%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -0.69% | WR 55.6%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (15-20 Delta) of Short-term Call Debit Spread.
+
+ALTERNATIEF:
+Covered Call verkoop op piekniveaus.
+
+STRIKE REGELS:
+Gebruik strakke looptijden (7-14 DTE) om niet vast te zitten in Mei 2H.
+
+EXIT CRITERIA:
+Winst nemen rond 10 mei. GEEN nieuwe lange posities openen na 12 mei!
+
+VOLGENDE PERIODE:
+May 2H: ⚠️ SELL IN MAY KICK-OFF! Midterm gemiddeld -1.19% (44% WR).",Options Desk,False
+"🔴 SPY [SELL IN MAY (MIDTERM SELL-OFF)] May 2H | Ann: +0.19% | Pres: -1.19%",05/02/2026,,05/15/2026,,True,"Periode: Mei 2H (Pre-OpEx) 2026
+Signaal: SELL IN MAY (MIDTERM SELL-OFF)
+
+JAARLIJKSE CYCLUS: Avg +0.19% | WR 55.9%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -1.19% | WR 44.4%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bear Call Credit Spread (15-20 Delta short call) of Collar op aandelenbezit.
+
+ALTERNATIEF:
+Long Put Hedges (30-45 DTE).
+
+STRIKE REGELS:
+Short Calls boven de mei-top.
+
+EXIT CRITERIA:
+Bescherm kapitaal; winst nemen bij elke diepe dip.
+
+VOLGENDE PERIODE:
+Jun 1H: 🟢 Vroege juni herstelinflow (+1.04% Jaarlijks).",Options Desk,False
+"🟢 SPY [ZOMERINSTROOM] Jun 1H | Ann: +1.04% | Pres: +0.55%",05/16/2026,,06/01/2026,,True,"Periode: Juni 1H (Post-OpEx) 2026
+Signaal: ZOMERINSTROOM
+
+JAARLIJKSE CYCLUS: Avg +1.04% | WR 64.7%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +0.55% | WR 66.7%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (20 Delta) of Call Debit Spread.
+
+ALTERNATIEF:
+Iron Condor met bullish bias.
+
+STRIKE REGELS:
+Short Put onder late-mei swing lows.
+
+EXIT CRITERIA:
+Winst verzilveren vóór medio juni.
+
+VOLGENDE PERIODE:
+Jun 2H: ⚠️ Pre-OpEx zomerzwakte en Quadruple Witching.",Options Desk,False
+"🔴 SPY [ZOMERZWAKTE / PRE-OPEX] Jun 2H | Ann: -0.01% | Pres: -1.06%",06/02/2026,,06/19/2026,,True,"Periode: Juni 2H (Pre-OpEx) 2026
+Signaal: ZOMERZWAKTE / PRE-OPEX
+
+JAARLIJKSE CYCLUS: Avg -0.01% | WR 41.2%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -1.06% | WR 44.4%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bear Call Credit Spread of Delta Neutral Iron Butterfly.
+
+ALTERNATIEF:
+Protective Puts ter bescherming van Q2 winsten.
+
+STRIKE REGELS:
+Verkoop calls boven weerstand.
+
+EXIT CRITERIA:
+Posities sluiten op OpEx Friday.
+
+VOLGENDE PERIODE:
+Jul 1H: 🚀 Vroeg Juli instroom van pensioengelden.",Options Desk,False
+"🟢 SPY [JULI LIQUIDITEITSINSTROOM] Jul 1H | Ann: +0.52% | Pres: -0.21%",06/20/2026,,07/03/2026,,True,"Periode: Juli 1H (Post-OpEx) 2026
+Signaal: JULI LIQUIDITEITSINSTROOM
+
+JAARLIJKSE CYCLUS: Avg +0.52% | WR 61.8%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -0.21% | WR 55.6%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (15 Delta) of Call Debit Spread.
+
+ALTERNATIEF:
+Covered Strangle.
+
+STRIKE REGELS:
+Koop 50-Delta Call, verkoop 25-Delta Call.
+
+EXIT CRITERIA:
+Winst nemen vóór midden juli.
+
+VOLGENDE PERIODE:
+Jul 2H: Zomertop vorming en start Q2 cijfers.",Options Desk,False
+"🟡 SPY [ZOMERTOP / CONSOLIDATIE] Jul 2H | Ann: +0.51% | Pres: -0.47%",07/04/2026,,07/17/2026,,True,"Periode: Juli 2H (Pre-OpEx) 2026
+Signaal: ZOMERTOP / CONSOLIDATIE
+
+JAARLIJKSE CYCLUS: Avg +0.51% | WR 58.8%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -0.47% | WR 55.6%
+
+PRIMAIRE OPTIE STRATEGIE:
+Delta Neutral Iron Condor of Call Credit Spread.
+
+ALTERNATIEF:
+Collars ter bescherming van de July 1H winsten.
+
+STRIKE REGELS:
+Ruime strikes (10-15 Delta) vanwege 'summer chop'.
+
+EXIT CRITERIA:
+Geen overnight exposure meenemen naar Augustus.
+
+VOLGENDE PERIODE:
+Aug 1H: Midterm toont historisch kracht (+1.29%, 78% WR).",Options Desk,False
+"🟢 SPY [MIDTERM AUGUSTUS VEERKRACHT] Aug 1H | Ann: +0.30% | Pres: +1.29%",07/18/2026,,08/03/2026,,True,"Periode: Augustus 1H (Post-OpEx) 2026
+Signaal: MIDTERM AUGUSTUS VEERKRACHT
+
+JAARLIJKSE CYCLUS: Avg +0.30% | WR 58.8%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +1.29% | WR 77.8%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (20 Delta) of Bull Call Spread.
+
+ALTERNATIEF:
+Long Volatiliteit / VIX Calls als macro-verzekering.
+
+STRIKE REGELS:
+Short Put onder steunniveau van eind juli.
+
+EXIT CRITERIA:
+Winst veiligstellen bij 50% max profit.
+
+VOLGENDE PERIODE:
+Aug 2H: Jackson Hole centrale bankiers conferentie.",Options Desk,False
+"🟢🟡 SPY [JACKSON HOLE DRIFT] Aug 2H | Ann: +0.12% | Pres: +1.34%",08/04/2026,,08/21/2026,,True,"Periode: Augustus 2H (Pre-OpEx) 2026
+Signaal: JACKSON HOLE DRIFT
+
+JAARLIJKSE CYCLUS: Avg +0.12% | WR 67.6%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +1.34% | WR 77.8%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor of Bull Put Spread (15 Delta).
+
+ALTERNATIEF:
+Calendar Spreads.
+
+STRIKE REGELS:
+16-Delta limits, focus op theta decay.
+
+EXIT CRITERIA:
+Sluiten vóór het begin van gevreesd September!
+
+VOLGENDE PERIODE:
+Sep 1H: ⚠️ Start van de beruchtste beursmaand van het jaar (-1.42% Midterm).",Options Desk,False
+"🔴 SPY [SEPTEMBER KATER (RISICO)] Sep 1H | Ann: +0.28% | Pres: -1.42%",08/22/2026,,09/04/2026,,True,"Periode: September 1H (Post-OpEx) 2026
+Signaal: SEPTEMBER KATER (RISICO)
+
+JAARLIJKSE CYCLUS: Avg +0.28% | WR 57.6%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -1.42% | WR 50.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bear Put Debit Spread of Cash verhogen.
+
+ALTERNATIEF:
+Long Puts als downside hedge.
+
+STRIKE REGELS:
+ATM/OTM Put spreads met 21-30 DTE.
+
+EXIT CRITERIA:
+Neem snelle deelwinsten bij marktcorrecties.
+
+VOLGENDE PERIODE:
+Sep 2H: Pre-OpEx stabilisatie vóór de beruchte Oktober bodem.",Options Desk,False
+"🟢🟡★ SPY [PRE-OPEX STABILISATIE ★ HUIDIG] Sep 2H | Ann: +0.53% | Pres: +0.33%",09/05/2026,,09/18/2026,,True,"Periode: September 2H (Pre-OpEx) 2026
+Signaal: PRE-OPEX STABILISATIE ★ HUIDIG
+
+JAARLIJKSE CYCLUS: Avg +0.53% | WR 66.7%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +0.33% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor (Delta-Neutraal) of lichte Bull Put Spread (15 Delta).
+
+ALTERNATIEF:
+Short Strangle met ruime marges om theta te verzamelen.
+
+STRIKE REGELS:
+Call spread op recente weerstand, Put spread ruim onder september support.
+
+EXIT CRITERIA:
+ALLES SLUITEN OP OPEX FRIDAY! Neem geen long exposure mee naar Oktober 1H!
+
+VOLGENDE PERIODE:
+🚨 OKTOBER 1H: DE GEVAARLIJKSTE PERIODE VAN HET JAAR (-1.45%, 25% WR)!",Options Desk,False
+"🔴🔴🚨 SPY [CAPITULATIE BODEM (MAX DUBBEL RISICO)] Oct 1H | Ann: -0.88% | Pres: -1.45%",09/19/2026,,10/02/2026,,True,"Periode: Oktober 1H (Post-OpEx) 2026
+Signaal: CAPITULATIE BODEM (MAX DUBBEL RISICO)
+
+JAARLIJKSE CYCLUS: Avg -0.88% | WR 42.4%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -1.45% | WR 25.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Agressieve Hedges: Bear Put Debit Spreads, Long Puts of Long VIX Calls.
+
+ALTERNATIEF:
+100% Cash voor risk-averse handelaren; bereid buy-the-dip orders voor.
+
+STRIKE REGELS:
+Koop 50-Delta Puts zodra support breekt. Wacht met calls tot extreme capitulatie (VIX > 25-30).
+
+EXIT CRITERIA:
+Hedges agressief verzilveren rond OpEx Friday wanneer paniek maximaal is.
+
+VOLGENDE PERIODE:
+🚀 OKTOBER 2H: DE GROTE TURNAROUND! Het startschot voor de mega eindejaarsrally (+1.72%, 62% WR)!",Options Desk,False
+"🟢🟢🚀 SPY [DE GROTE PIVOT / TURNAROUND] Oct 2H | Ann: +0.62% | Pres: +1.72%",10/03/2026,,10/16/2026,,True,"Periode: Oktober 2H (Pre-OpEx) 2026
+Signaal: DE GROTE PIVOT / TURNAROUND
+
+JAARLIJKSE CYCLUS: Avg +0.62% | WR 57.6%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +1.72% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread (+0.60 Delta / -0.30 Delta) of Risk Reversal (Sell OTM Put, Koop ATM Call).
+
+ALTERNATIEF:
+Agressieve Bull Put Spreads op oversold niveaus.
+
+STRIKE REGELS:
+Koop ATM Calls met 45-60 DTE gericht op de eindejaarsrally.
+
+EXIT CRITERIA:
+Laat winnaars lopen; rol opwaarts door naar November.
+
+VOLGENDE PERIODE:
+Nov 1H: Post-Election Relief Rally (+1.63% Midterm, 62% WR)!",Options Desk,False
+"🟢🟢 SPY [POST-ELECTION RELIEF RALLY] Nov 1H | Ann: +1.34% | Pres: +1.63%",10/17/2026,,11/02/2026,,True,"Periode: November 1H (Post-OpEx) 2026
+Signaal: POST-ELECTION RELIEF RALLY
+
+JAARLIJKSE CYCLUS: Avg +1.34% | WR 66.7%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +1.63% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread of ATM Long Calls.
+
+ALTERNATIEF:
+Bull Put Credit Spread (20 Delta).
+
+STRIKE REGELS:
+Verkoop out-of-the-money calls 3-5% boven de markt.
+
+EXIT CRITERIA:
+Winst vasthouden richting Thanksgiving.
+
+VOLGENDE PERIODE:
+👑 NOVEMBER 2H: HET KROONJUWEEL! 100% WIN RATE IN MIDTERM JAREN (+2.35%)!",Options Desk,False
+"🟢🟢🟢👑 SPY [KROONJUWEEL A++ (100% WIN RATE)] Nov 2H | Ann: +0.92% | Pres: +2.35%",11/03/2026,,11/20/2026,,True,"Periode: November 2H (Pre-OpEx) 2026
+Signaal: KROONJUWEEL A++ (100% WIN RATE)
+
+JAARLIJKSE CYCLUS: Avg +0.92% | WR 69.7%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +2.35% | WR 100.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Maximale Bullish Exposure: Deep ITM Call LEAPS, Bull Call Spreads, Synthetic Longs.
+
+ALTERNATIEF:
+Agressief verkopen van OTM Puts (30 Delta) om royale premie op te strijken.
+
+STRIKE REGELS:
+Koop 65-Delta Long Calls, verkoop 25-Delta Calls; of naked long calls.
+
+EXIT CRITERIA:
+Winst nemen vóór de eerste week van december.
+
+VOLGENDE PERIODE:
+Dec 1H: Start van de Santa Claus Rally (+1.51% Jaarlijks, 79% WR).",Options Desk,False
+"🟢 SPY [SANTA RALLY KICK-OFF] Dec 1H | Ann: +1.51% | Pres: +0.60%",11/21/2026,,12/04/2026,,True,"Periode: December 1H (Post-OpEx) 2026
+Signaal: SANTA RALLY KICK-OFF
+
+JAARLIJKSE CYCLUS: Avg +1.51% | WR 78.8%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg +0.60% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (15-20 Delta) of Covered Calls.
+
+ALTERNATIEF:
+Iron Condor met bullish skew.
+
+STRIKE REGELS:
+Short Put ruim onder de november low.
+
+EXIT CRITERIA:
+50% winst target voor OpEx Friday.
+
+VOLGENDE PERIODE:
+Dec 2H: Eindejaars window dressing en rollover naar Jan 1H.",Options Desk,False
+"🟡🔴 SPY [WINDOW DRESSING / DIVERGENTIE] Dec 2H | Ann: -0.18% | Pres: -1.59%",12/05/2026,,12/18/2026,,True,"Periode: December 2H (Pre-OpEx) 2026
+Signaal: WINDOW DRESSING / DIVERGENTIE
+
+JAARLIJKSE CYCLUS: Avg -0.18% | WR 60.6%
+PRESIDENTIELE CYCLUS (Midterm Year (Jaar 2)): Avg -1.59% | WR 50.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor (Theta Melken) of Long Call rollen naar Januari.
+
+ALTERNATIEF:
+Cash opbouwen voor de Jan 1H A+ setup.
+
+STRIKE REGELS:
+Ver OTM strikes (10 Delta) om holiday theta te incasseren.
+
+EXIT CRITERIA:
+Posities sluiten vóór 31 december; nieuw handelsplan klaarzetten!
+
+VOLGENDE PERIODE:
+Jan 1H: Het nieuwe jaar start met A+ Bull Confluence (+1.28% tot +1.73%)!",Options Desk,False
+"🟢🟢 SPY [A+ BULL CONFLUENCE] Jan 1H | Ann: +1.28% | Pres: +1.58%",12/19/2026,,01/01/2027,,True,"Periode: Januari 1H (Post-OpEx) 2027
+Signaal: A+ BULL CONFLUENCE
+
+JAARLIJKSE CYCLUS: Avg +1.28% | WR 75.8%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.58% | WR 75.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread (+0.60 Delta Long Call / -0.30 Delta Short Call) of Bull Put Credit Spread (20 Delta).
+
+ALTERNATIEF:
+Long SPY Calls / Call LEAPS toevoegen voor het nieuwe beursjaar.
+
+STRIKE REGELS:
+Long Call net ITM/ATM, Short Call op 3-4% OTM weerstand. Target 30-45 DTE of OpEx.
+
+EXIT CRITERIA:
+Winst nemen bij 50-60% max profit. Stop loss bij sluiting onder de 21-daagse EMA.
+
+VOLGENDE PERIODE:
+Jan 2H: Consolidatie en winstnemingen in aanloop naar tech earnings.",Options Desk,False
+"🟡 SPY [NEUTRAAL / PRE-EARNINGS] Jan 2H | Ann: -0.02% | Pres: +1.22%",01/02/2027,,01/15/2027,,True,"Periode: Januari 2H (Pre-OpEx) 2027
+Signaal: NEUTRAAL / PRE-EARNINGS
+
+JAARLIJKSE CYCLUS: Avg -0.02% | WR 63.6%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.22% | WR 75.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor (16-Delta Puts / 16-Delta Calls) of Call Diagonal Spread.
+
+ALTERNATIEF:
+Cash-Secured Put op favoriete dips.
+
+STRIKE REGELS:
+Wings 5 tot 10 punten breed. Verkoop premie buiten de verwachte weekly move.
+
+EXIT CRITERIA:
+Sluiten vóór Big Tech earnings en vóór OpEx Friday.
+
+VOLGENDE PERIODE:
+Feb 1H: Vroege februari rebound (+0.85%, 67% WR Jaarlijks).",Options Desk,False
+"🟢🟡 SPY [GEMATIGD BULLISH / DIVERGENTIE] Feb 1H | Ann: +0.85% | Pres: +1.18%",01/16/2027,,02/01/2027,,True,"Periode: Februari 1H (Post-OpEx) 2027
+Signaal: GEMATIGD BULLISH / DIVERGENTIE
+
+JAARLIJKSE CYCLUS: Avg +0.85% | WR 66.7%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.18% | WR 87.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (15-20 Delta) of OTM Call Spread.
+
+ALTERNATIEF:
+Covered Call op bestaande long aandelen.
+
+STRIKE REGELS:
+Short Put onder recente swing low; Long Put ter bescherming 5 punten lager.
+
+EXIT CRITERIA:
+Winst nemen bij 50% max winst vóór 8 februari om niet verrast te worden door Feb 2H.
+
+VOLGENDE PERIODE:
+Feb 2H: Let op voor de traditionele late-februari consolidatie.",Options Desk,False
+"🟡 SPY [NEUTRAAL / CONSOLIDATIE] Feb 2H | Ann: +0.21% | Pres: +0.87%",02/02/2027,,02/19/2027,,True,"Periode: Februari 2H (Pre-OpEx) 2027
+Signaal: NEUTRAAL / CONSOLIDATIE
+
+JAARLIJKSE CYCLUS: Avg +0.21% | WR 60.6%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +0.87% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor of Short Strangles met ruime strikes.
+
+ALTERNATIEF:
+Bear Call Credit Spread bij zwak momentum.
+
+STRIKE REGELS:
+Verkoop 15-Delta strikes aan weerszijden van de range.
+
+EXIT CRITERIA:
+Sluiten bij 50% winst of op OpEx Friday.
+
+VOLGENDE PERIODE:
+Mar 1H: ⚠️ Maart start historisch stroef en volatiel.",Options Desk,False
+"🔴🟡 SPY [VOLATILITEIT / STROEF] Mar 1H | Ann: -0.47% | Pres: -0.83%",02/20/2027,,03/05/2027,,True,"Periode: Maart 1H (Post-OpEx) 2027
+Signaal: VOLATILITEIT / STROEF
+
+JAARLIJKSE CYCLUS: Avg -0.47% | WR 47.1%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg -0.83% | WR 37.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Long Volatiliteit / Strangle of Bear Call Credit Spread.
+
+ALTERNATIEF:
+Cash positie aanhouden / wachten op de befaamde Mar 2H bodem.
+
+STRIKE REGELS:
+Verkoop pas puts als SPY oversold raakt op de RSI(14) < 35.
+
+EXIT CRITERIA:
+Geen agressieve naked long calls aanhouden.
+
+VOLGENDE PERIODE:
+Mar 2H: 🚀 STERK HERSTEL! Quarter-end window dressing (+1.49% Midterm, 78% WR).",Options Desk,False
+"🟢🟢 SPY [STERK HERSTEL (KWARTAALEINDE)] Mar 2H | Ann: +0.21% | Pres: +1.09%",03/06/2027,,03/19/2027,,True,"Periode: Maart 2H (Pre-OpEx) 2027
+Signaal: STERK HERSTEL (KWARTAALEINDE)
+
+JAARLIJKSE CYCLUS: Avg +0.21% | WR 58.8%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.09% | WR 75.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread (+0.55 Delta / -0.25 Delta) of ATM Long Calls.
+
+ALTERNATIEF:
+Bull Put Credit Spread (25-30 Delta agressief verkopen).
+
+STRIKE REGELS:
+Target de bovenkant van de kwartaalrange.
+
+EXIT CRITERIA:
+Sluiten op of rond de laatste handelsdag van maart.
+
+VOLGENDE PERIODE:
+Apr 1H: April seasonality instroom en tax refund liquiditeit (+0.87% Jaarlijks).",Options Desk,False
+"🟢🟡 SPY [APRIL DRIFT / GEMENGD] Apr 1H | Ann: +0.87% | Pres: +1.51%",03/20/2027,,04/02/2027,,True,"Periode: April 1H (Post-OpEx) 2027
+Signaal: APRIL DRIFT / GEMENGD
+
+JAARLIJKSE CYCLUS: Avg +0.87% | WR 58.8%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.51% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (20 Delta) of Long Call Diagonal.
+
+ALTERNATIEF:
+Synthetic Long (Long ATM Call gefinancierd door Short OTM Put).
+
+STRIKE REGELS:
+Short Put onder steunniveau van eind maart.
+
+EXIT CRITERIA:
+Winst nemen vóór grote tech-rapportages in week 2.
+
+VOLGENDE PERIODE:
+Apr 2H: 🟢 Sterke pre-OpEx rally in april (+1.08% Jaarlijks, +0.77% Midterm).",Options Desk,False
+"🟢 SPY [BULLISH PRE-OPEX RALLY] Apr 2H | Ann: +1.08% | Pres: +1.26%",04/03/2027,,04/16/2027,,True,"Periode: April 2H (Pre-OpEx) 2027
+Signaal: BULLISH PRE-OPEX RALLY
+
+JAARLIJKSE CYCLUS: Avg +1.08% | WR 61.8%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.26% | WR 87.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread (+0.60 Delta / -0.30 Delta) of Bull Put Spread.
+
+ALTERNATIEF:
+Calendar Call Spread rond megacap rapportages.
+
+STRIKE REGELS:
+Target resistance van 52-week highs.
+
+EXIT CRITERIA:
+Sluiten bij 50-60% max profit vóór de start van mei.
+
+VOLGENDE PERIODE:
+May 1H: Laatste opwaartse stoot vóór de beruchte 'Sell in May'.",Options Desk,False
+"🟢🟡 SPY [VROEGE MEI DRIFT] May 1H | Ann: +0.97% | Pres: +1.85%",04/17/2027,,05/03/2027,,True,"Periode: Mei 1H (Post-OpEx) 2027
+Signaal: VROEGE MEI DRIFT
+
+JAARLIJKSE CYCLUS: Avg +0.97% | WR 64.7%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.85% | WR 100.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (15-20 Delta) of Short-term Call Debit Spread.
+
+ALTERNATIEF:
+Covered Call verkoop op piekniveaus.
+
+STRIKE REGELS:
+Gebruik strakke looptijden (7-14 DTE) om niet vast te zitten in Mei 2H.
+
+EXIT CRITERIA:
+Winst nemen rond 10 mei. GEEN nieuwe lange posities openen na 12 mei!
+
+VOLGENDE PERIODE:
+May 2H: ⚠️ SELL IN MAY KICK-OFF! Midterm gemiddeld -1.19% (44% WR).",Options Desk,False
+"🔴 SPY [SELL IN MAY (MIDTERM SELL-OFF)] May 2H | Ann: +0.19% | Pres: +0.13%",05/04/2027,,05/21/2027,,True,"Periode: Mei 2H (Pre-OpEx) 2027
+Signaal: SELL IN MAY (MIDTERM SELL-OFF)
+
+JAARLIJKSE CYCLUS: Avg +0.19% | WR 55.9%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +0.13% | WR 50.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bear Call Credit Spread (15-20 Delta short call) of Collar op aandelenbezit.
+
+ALTERNATIEF:
+Long Put Hedges (30-45 DTE).
+
+STRIKE REGELS:
+Short Calls boven de mei-top.
+
+EXIT CRITERIA:
+Bescherm kapitaal; winst nemen bij elke diepe dip.
+
+VOLGENDE PERIODE:
+Jun 1H: 🟢 Vroege juni herstelinflow (+1.04% Jaarlijks).",Options Desk,False
+"🟢 SPY [ZOMERINSTROOM] Jun 1H | Ann: +1.04% | Pres: +0.84%",05/22/2027,,06/04/2027,,True,"Periode: Juni 1H (Post-OpEx) 2027
+Signaal: ZOMERINSTROOM
+
+JAARLIJKSE CYCLUS: Avg +1.04% | WR 64.7%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +0.84% | WR 50.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (20 Delta) of Call Debit Spread.
+
+ALTERNATIEF:
+Iron Condor met bullish bias.
+
+STRIKE REGELS:
+Short Put onder late-mei swing lows.
+
+EXIT CRITERIA:
+Winst verzilveren vóór medio juni.
+
+VOLGENDE PERIODE:
+Jun 2H: ⚠️ Pre-OpEx zomerzwakte en Quadruple Witching.",Options Desk,False
+"🔴 SPY [ZOMERZWAKTE / PRE-OPEX] Jun 2H | Ann: -0.01% | Pres: +1.03%",06/05/2027,,06/18/2027,,True,"Periode: Juni 2H (Pre-OpEx) 2027
+Signaal: ZOMERZWAKTE / PRE-OPEX
+
+JAARLIJKSE CYCLUS: Avg -0.01% | WR 41.2%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.03% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bear Call Credit Spread of Delta Neutral Iron Butterfly.
+
+ALTERNATIEF:
+Protective Puts ter bescherming van Q2 winsten.
+
+STRIKE REGELS:
+Verkoop calls boven weerstand.
+
+EXIT CRITERIA:
+Posities sluiten op OpEx Friday.
+
+VOLGENDE PERIODE:
+Jul 1H: 🚀 Vroeg Juli instroom van pensioengelden.",Options Desk,False
+"🟢 SPY [JULI LIQUIDITEITSINSTROOM] Jul 1H | Ann: +0.52% | Pres: +0.96%",06/19/2027,,07/02/2027,,True,"Periode: Juli 1H (Post-OpEx) 2027
+Signaal: JULI LIQUIDITEITSINSTROOM
+
+JAARLIJKSE CYCLUS: Avg +0.52% | WR 61.8%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +0.96% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (15 Delta) of Call Debit Spread.
+
+ALTERNATIEF:
+Covered Strangle.
+
+STRIKE REGELS:
+Koop 50-Delta Call, verkoop 25-Delta Call.
+
+EXIT CRITERIA:
+Winst nemen vóór midden juli.
+
+VOLGENDE PERIODE:
+Jul 2H: Zomertop vorming en start Q2 cijfers.",Options Desk,False
+"🟡 SPY [ZOMERTOP / CONSOLIDATIE] Jul 2H | Ann: +0.51% | Pres: +1.16%",07/03/2027,,07/16/2027,,True,"Periode: Juli 2H (Pre-OpEx) 2027
+Signaal: ZOMERTOP / CONSOLIDATIE
+
+JAARLIJKSE CYCLUS: Avg +0.51% | WR 58.8%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.16% | WR 75.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Delta Neutral Iron Condor of Call Credit Spread.
+
+ALTERNATIEF:
+Collars ter bescherming van de July 1H winsten.
+
+STRIKE REGELS:
+Ruime strikes (10-15 Delta) vanwege 'summer chop'.
+
+EXIT CRITERIA:
+Geen overnight exposure meenemen naar Augustus.
+
+VOLGENDE PERIODE:
+Aug 1H: Midterm toont historisch kracht (+1.29%, 78% WR).",Options Desk,False
+"🟢 SPY [MIDTERM AUGUSTUS VEERKRACHT] Aug 1H | Ann: +0.30% | Pres: -2.72%",07/17/2027,,08/02/2027,,True,"Periode: Augustus 1H (Post-OpEx) 2027
+Signaal: MIDTERM AUGUSTUS VEERKRACHT
+
+JAARLIJKSE CYCLUS: Avg +0.30% | WR 58.8%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg -2.72% | WR 12.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (20 Delta) of Bull Call Spread.
+
+ALTERNATIEF:
+Long Volatiliteit / VIX Calls als macro-verzekering.
+
+STRIKE REGELS:
+Short Put onder steunniveau van eind juli.
+
+EXIT CRITERIA:
+Winst veiligstellen bij 50% max profit.
+
+VOLGENDE PERIODE:
+Aug 2H: Jackson Hole centrale bankiers conferentie.",Options Desk,False
+"🟢🟡 SPY [JACKSON HOLE DRIFT] Aug 2H | Ann: +0.12% | Pres: -2.02%",08/03/2027,,08/20/2027,,True,"Periode: Augustus 2H (Pre-OpEx) 2027
+Signaal: JACKSON HOLE DRIFT
+
+JAARLIJKSE CYCLUS: Avg +0.12% | WR 67.6%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg -2.02% | WR 50.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor of Bull Put Spread (15 Delta).
+
+ALTERNATIEF:
+Calendar Spreads.
+
+STRIKE REGELS:
+16-Delta limits, focus op theta decay.
+
+EXIT CRITERIA:
+Sluiten vóór het begin van gevreesd September!
+
+VOLGENDE PERIODE:
+Sep 1H: ⚠️ Start van de beruchtste beursmaand van het jaar (-1.42% Midterm).",Options Desk,False
+"🔴 SPY [SEPTEMBER KATER (RISICO)] Sep 1H | Ann: +0.28% | Pres: +2.02%",08/21/2027,,09/03/2027,,True,"Periode: September 1H (Post-OpEx) 2027
+Signaal: SEPTEMBER KATER (RISICO)
+
+JAARLIJKSE CYCLUS: Avg +0.28% | WR 57.6%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +2.02% | WR 75.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bear Put Debit Spread of Cash verhogen.
+
+ALTERNATIEF:
+Long Puts als downside hedge.
+
+STRIKE REGELS:
+ATM/OTM Put spreads met 21-30 DTE.
+
+EXIT CRITERIA:
+Neem snelle deelwinsten bij marktcorrecties.
+
+VOLGENDE PERIODE:
+Sep 2H: Pre-OpEx stabilisatie vóór de beruchte Oktober bodem.",Options Desk,False
+"🟢🟡★ SPY [PRE-OPEX STABILISATIE ★ HUIDIG] Sep 2H | Ann: +0.53% | Pres: +1.48%",09/04/2027,,09/17/2027,,True,"Periode: September 2H (Pre-OpEx) 2027
+Signaal: PRE-OPEX STABILISATIE ★ HUIDIG
+
+JAARLIJKSE CYCLUS: Avg +0.53% | WR 66.7%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.48% | WR 87.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor (Delta-Neutraal) of lichte Bull Put Spread (15 Delta).
+
+ALTERNATIEF:
+Short Strangle met ruime marges om theta te verzamelen.
+
+STRIKE REGELS:
+Call spread op recente weerstand, Put spread ruim onder september support.
+
+EXIT CRITERIA:
+ALLES SLUITEN OP OPEX FRIDAY! Neem geen long exposure mee naar Oktober 1H!
+
+VOLGENDE PERIODE:
+🚨 OKTOBER 1H: DE GEVAARLIJKSTE PERIODE VAN HET JAAR (-1.45%, 25% WR)!",Options Desk,False
+"🔴🔴🚨 SPY [CAPITULATIE BODEM (MAX DUBBEL RISICO)] Oct 1H | Ann: -0.88% | Pres: -2.00%",09/18/2027,,10/01/2027,,True,"Periode: Oktober 1H (Post-OpEx) 2027
+Signaal: CAPITULATIE BODEM (MAX DUBBEL RISICO)
+
+JAARLIJKSE CYCLUS: Avg -0.88% | WR 42.4%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg -2.00% | WR 12.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Agressieve Hedges: Bear Put Debit Spreads, Long Puts of Long VIX Calls.
+
+ALTERNATIEF:
+100% Cash voor risk-averse handelaren; bereid buy-the-dip orders voor.
+
+STRIKE REGELS:
+Koop 50-Delta Puts zodra support breekt. Wacht met calls tot extreme capitulatie (VIX > 25-30).
+
+EXIT CRITERIA:
+Hedges agressief verzilveren rond OpEx Friday wanneer paniek maximaal is.
+
+VOLGENDE PERIODE:
+🚀 OKTOBER 2H: DE GROTE TURNAROUND! Het startschot voor de mega eindejaarsrally (+1.72%, 62% WR)!",Options Desk,False
+"🟢🟢🚀 SPY [DE GROTE PIVOT / TURNAROUND] Oct 2H | Ann: +0.62% | Pres: +1.35%",10/02/2027,,10/15/2027,,True,"Periode: Oktober 2H (Pre-OpEx) 2027
+Signaal: DE GROTE PIVOT / TURNAROUND
+
+JAARLIJKSE CYCLUS: Avg +0.62% | WR 57.6%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.35% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread (+0.60 Delta / -0.30 Delta) of Risk Reversal (Sell OTM Put, Koop ATM Call).
+
+ALTERNATIEF:
+Agressieve Bull Put Spreads op oversold niveaus.
+
+STRIKE REGELS:
+Koop ATM Calls met 45-60 DTE gericht op de eindejaarsrally.
+
+EXIT CRITERIA:
+Laat winnaars lopen; rol opwaarts door naar November.
+
+VOLGENDE PERIODE:
+Nov 1H: Post-Election Relief Rally (+1.63% Midterm, 62% WR)!",Options Desk,False
+"🟢🟢 SPY [POST-ELECTION RELIEF RALLY] Nov 1H | Ann: +1.34% | Pres: +2.74%",10/16/2027,,11/01/2027,,True,"Periode: November 1H (Post-OpEx) 2027
+Signaal: POST-ELECTION RELIEF RALLY
+
+JAARLIJKSE CYCLUS: Avg +1.34% | WR 66.7%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +2.74% | WR 100.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Call Debit Spread of ATM Long Calls.
+
+ALTERNATIEF:
+Bull Put Credit Spread (20 Delta).
+
+STRIKE REGELS:
+Verkoop out-of-the-money calls 3-5% boven de markt.
+
+EXIT CRITERIA:
+Winst vasthouden richting Thanksgiving.
+
+VOLGENDE PERIODE:
+👑 NOVEMBER 2H: HET KROONJUWEEL! 100% WIN RATE IN MIDTERM JAREN (+2.35%)!",Options Desk,False
+"🟢🟢🟢👑 SPY [KROONJUWEEL A++ (100% WIN RATE)] Nov 2H | Ann: +0.92% | Pres: +0.55%",11/02/2027,,11/19/2027,,True,"Periode: November 2H (Pre-OpEx) 2027
+Signaal: KROONJUWEEL A++ (100% WIN RATE)
+
+JAARLIJKSE CYCLUS: Avg +0.92% | WR 69.7%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +0.55% | WR 50.0%
+
+PRIMAIRE OPTIE STRATEGIE:
+Maximale Bullish Exposure: Deep ITM Call LEAPS, Bull Call Spreads, Synthetic Longs.
+
+ALTERNATIEF:
+Agressief verkopen van OTM Puts (30 Delta) om royale premie op te strijken.
+
+STRIKE REGELS:
+Koop 65-Delta Long Calls, verkoop 25-Delta Calls; of naked long calls.
+
+EXIT CRITERIA:
+Winst nemen vóór de eerste week van december.
+
+VOLGENDE PERIODE:
+Dec 1H: Start van de Santa Claus Rally (+1.51% Jaarlijks, 79% WR).",Options Desk,False
+"🟢 SPY [SANTA RALLY KICK-OFF] Dec 1H | Ann: +1.51% | Pres: +1.39%",11/20/2027,,12/03/2027,,True,"Periode: December 1H (Post-OpEx) 2027
+Signaal: SANTA RALLY KICK-OFF
+
+JAARLIJKSE CYCLUS: Avg +1.51% | WR 78.8%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +1.39% | WR 87.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Bull Put Credit Spread (15-20 Delta) of Covered Calls.
+
+ALTERNATIEF:
+Iron Condor met bullish skew.
+
+STRIKE REGELS:
+Short Put ruim onder de november low.
+
+EXIT CRITERIA:
+50% winst target voor OpEx Friday.
+
+VOLGENDE PERIODE:
+Dec 2H: Eindejaars window dressing en rollover naar Jan 1H.",Options Desk,False
+"🟡🔴 SPY [WINDOW DRESSING / DIVERGENTIE] Dec 2H | Ann: -0.18% | Pres: +0.50%",12/04/2027,,12/17/2027,,True,"Periode: December 2H (Pre-OpEx) 2027
+Signaal: WINDOW DRESSING / DIVERGENTIE
+
+JAARLIJKSE CYCLUS: Avg -0.18% | WR 60.6%
+PRESIDENTIELE CYCLUS (Pre-Election Year (Jaar 3)): Avg +0.50% | WR 62.5%
+
+PRIMAIRE OPTIE STRATEGIE:
+Iron Condor (Theta Melken) of Long Call rollen naar Januari.
+
+ALTERNATIEF:
+Cash opbouwen voor de Jan 1H A+ setup.
+
+STRIKE REGELS:
+Ver OTM strikes (10 Delta) om holiday theta te incasseren.
+
+EXIT CRITERIA:
+Posities sluiten vóór 31 december; nieuw handelsplan klaarzetten!
+
+VOLGENDE PERIODE:
+Jan 1H: Het nieuwe jaar start met A+ Bull Confluence (+1.28% tot +1.73%)!",Options Desk,False
